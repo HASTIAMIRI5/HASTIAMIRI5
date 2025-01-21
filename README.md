@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello, I'm Hasti <br><br>🚀 AI/ML Engineer focusing on applied AI<br><br>Blending over 2 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences
+<br>Hello, I'm Hasti <br><br>🚀 AI/ML <br><br>Blending over 2 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences
 
 
 ## 🌐 Socials:
