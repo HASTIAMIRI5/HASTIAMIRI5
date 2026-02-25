@@ -1,4 +1,4 @@
-# Cybersecurity Professional Profile
+# Senior Security Researcher | Ethical Hacker | Bug Hunter
 
 ## Overview
 
