@@ -1,136 +1,180 @@
+# Hasti Amir
 
 IT Administration · Systems & Networking · Infrastructure Security
 
-Building practical skills. Solving technical problems. Documenting every step.
-LinkedIn · Email
+Building practical skills through hands-on labs, technical troubleshooting, and clear documentation.
 
-01 — PROFESSIONAL PROFILE
+[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com) · [GitHub](https://github.com/HASTIAMIRI5)
 
-Information Technology graduate focused on IT infrastructure, systems administration, networking, and security.
-I build hands-on lab environments to practice real-world administration tasks, troubleshoot technical issues, and document reproducible solutions.
-Career target: IT Administrator / Junior System Administrator
-Preferred market: Germany
-Languages: English C1+ · German A1 (currently learning)
+## About Me
 
-02 — TECHNICAL TOOLKIT
+Information Technology graduate focused on IT infrastructure, system administration, networking, and security. I enjoy building practical lab environments to strengthen real-world administration skills, troubleshoot technical issues, and document repeatable solutions.
 
-DomainTechnologies & SkillsWindows InfrastructureWindows Server · Active Directory · DNS · DHCP · Group PolicyAutomationPowerShell · Bash fundamentalsNetworkingTCP/IP · IPv4 · Subnetting · WiresharkLinuxUsers & Groups · Permissions · Services · System LogsVirtualizationHyper-V · VirtualBoxSecurity & OperationsLeast Privilege · Backup & Recovery · Monitoring · Log AnalysisCloud & IdentityMicrosoft 365 · Microsoft Entra ID fundamentals 
-Skills are developed through practical labs and will be updated as proficiency is validated.
+My goal is to grow into a role such as IT Administrator or Junior System Administrator, with a strong interest in secure and reliable infrastructure operations.
 
-03 — FEATURED PROJECTS
+## Professional Profile
 
-01. Windows Server & Active Directory Lab
+- Career target: IT Administrator / Junior System Administrator
+- Preferred market: Germany
+- Languages: English C1+ · German A1 (currently learning)
 
-WINDOWS SERVER AD DS DNS GPO
+## Technical Toolkit
+
+### Infrastructure & Windows
+- Windows Server
+- Active Directory (AD DS)
+- DNS and DHCP
+- Group Policy Management
+- File and Access Permissions
+
+### Automation & Scripting
+- PowerShell
+- Bash fundamentals
+- Task automation and routine admin workflows
+
+### Networking
+- TCP/IP
+- IPv4 and subnetting
+- Connectivity troubleshooting
+- Basic packet analysis concepts
+
+### Security & Administration
+- Identity and access basics
+- Security hardening principles
+- Log review and troubleshooting
+- Backup and recovery fundamentals
+
+### Tools & Environments
+- VMware / Virtual Labs
+- Windows Server / Linux environments
+- Git and documentation workflows
+
+> Skills are developed through practical lab work and updated as proficiency is validated.
+
+## Featured Projects
+
+### 01. Windows Server & Active Directory Lab
+
+Windows Server · AD DS · DNS · GPO
+
 Status: Planned
-A virtual Windows domain environment designed to practice core system administration.
 
-Deploy a domain controller and configure Active Directory.
+A virtual Windows domain environment designed to practice core system administration tasks.
 
-Create users, organizational units, and security groups.
+- Deploy a domain controller and configure Active Directory
+- Create users, organizational units, and security groups
+- Configure DNS and join a Windows client to the domain
+- Apply Group Policy and configure permissions
+- Validate access controls and document troubleshooting
 
-Configure DNS and join a Windows client to the domain.
+Deliverables: Architecture diagram · Setup guide · Screenshots · Validation notes
 
-Apply Group Policy and configure file permissions.
+### 02. PowerShell Administration Toolkit
 
-Test access controls and document troubleshooting.
+PowerShell · Automation · Windows
 
-Deliverables: Architecture diagram · Setup guide · Screenshots · Validation tests
-View Repository
-
-02. PowerShell Administration Toolkit
-
-POWERSHELL AUTOMATION WINDOWS
 Status: Planned
-A collection of tested scripts for routine administrative tasks.
 
-Collect system information.
+A collection of practical scripts focused on everyday IT administration.
 
-Generate user and group inventory reports.
-
-Check Windows services and selected event logs.
-
-Export reports to CSV.
-
-Document usage, errors, and sample output.
+- Collect system information
+- Generate user and group inventory reports
+- Check Windows services and selected event logs
+- Export reports to CSV
+- Document errors, usage, and sample output
 
 Deliverables: Scripts · Usage examples · Sample reports · Documentation
-View Repository
 
-03. Network Troubleshooting Lab
+### 03. Network Troubleshooting Lab
 
-TCP/IP DNS DHCP WIRESHARK
+TCP/IP · DNS · DHCP · Wireshark
+
 Status: Planned
-A collection of practical networking scenarios and structured troubleshooting reports.
 
-Diagnose DNS resolution failures.
+A hands-on networking lab built around troubleshooting and documentation.
 
-Investigate IP configuration and connectivity.
-
-Practice subnetting and DHCP troubleshooting.
-
-Analyze selected network traffic.
-
-Document root causes, tests, and resolutions.
+- Diagnose DNS resolution failures
+- Investigate IP configuration and connectivity issues
+- Practice subnetting and DHCP troubleshooting
+- Analyze traffic patterns and network behavior
+- Record root cause, validation steps, and resolutions
 
 Deliverables: Network diagrams · Test results · Troubleshooting reports
-View Repository
 
-04. Linux System Administration Lab
+### 04. Linux System Administration Lab
 
-LINUX BASH SSH SYSTEMD
+Linux · Bash · SSH · Systemd
+
 Status: Planned
-A hands-on environment for practicing essential Linux administration.
 
-Manage users, groups, and file permissions.
+A practical Linux environment for learning essential day-to-day administration skills.
 
-Install packages and manage services.
+- Manage users, groups, and permissions
+- Install packages and control services
+- Review logs and troubleshoot common failures
+- Practice SSH configuration and access control
+- Write basic Bash automation scripts
 
-Inspect logs and troubleshoot basic failures.
+Deliverables: Command reference · Configuration notes · Validation evidence
 
-Practice SSH administration in a controlled lab.
+### 05. Backup & Disaster Recovery Lab
 
-Write basic Bash scripts.
+Backup · Restore · Recovery
 
-Deliverables: Command reference · Configuration notes · Test evidence
-View Repository
-
-05. Backup & Disaster Recovery Lab
-
-BACKUP RESTORE RECOVERY
 Status: Planned
-A controlled lab for validating backup and recovery procedures.
 
-Define backup scope and recovery objectives.
+A controlled lab focused on backup planning, recovery testing, and documentation.
 
-Back up selected test files and configurations.
-
-Restore data and verify integrity.
-
-Record recovery steps, results, and limitations.
+- Define backup scope and recovery objectives
+- Back up selected files and configurations
+- Restore data and verify integrity
+- Record steps, outcomes, and limitations
 
 Deliverables: Recovery procedure · Test report · Verification checklist
-View Repository
 
-06. Infrastructure Monitoring & Log Analysis
+### 06. Infrastructure Monitoring & Log Analysis
 
-MONITORING LOGS TROUBLESHOOTING
+Monitoring · Logs · Troubleshooting
+
 Status: Planned
-A lab focused on system health checks and basic incident investigation.
 
-Monitor selected system resources and services.
+A lab for reviewing system health, logs, and basic incident investigation.
 
-Review system and application logs.
-
-Define example warning conditions.
-
-Document findings and corrective actions.
+- Monitor key system resources and services
+- Review system and application logs
+- Identify warning conditions and anomalies
+- Document findings and corrective actions
 
 Deliverables: Monitoring notes · Incident reports · Sample findings
-View Repository
 
-07. Microsoft 365 & Identity Management
+### 07. Microsoft 365 & Identity Management
 
-MICROSOFT 365 ENTRA ID MFA
+Microsoft 365 · Entra ID · MFA
+
 Status: Planned
-A practical introduction to cloud identity and access management.
+
+A practical introduction to cloud identity, security, and user administration.
+
+- Explore identity and access concepts
+- Understand authentication and MFA basics
+- Review cloud administration workflows
+- Connect fundamentals to enterprise IT operations
+
+Deliverables: Notes · Configuration examples · Learning checkpoints
+
+## Current Focus
+
+- Deepening skills in Windows Server and Active Directory
+- Practicing troubleshooting in networking and Linux environments
+- Strengthening documentation and technical writing
+- Building secure, structured admin workflows
+
+## Contact
+
+If you would like to connect or discuss IT infrastructure, systems administration, or learning opportunities, feel free to reach out.
+
+[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com) · [GitHub](https://github.com/HASTIAMIRI5)
+
+---
+
+"Learning by doing. Building the fundamentals. Documenting the process."
