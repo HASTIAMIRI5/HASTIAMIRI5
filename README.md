@@ -1,4 +1,4 @@
-# Hasti Amir
+# Hasti Amiri
 
 IT Administration · Systems & Networking · Infrastructure Security
 
