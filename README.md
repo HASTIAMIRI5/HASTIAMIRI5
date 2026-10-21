@@ -25,13 +25,13 @@ IT professional focused on infrastructure operations, systems administration, ne
 
 - Windows Server Administration
 - Active Directory
-- DNS, DHCP, and network troubleshooting
-- Linux system administration
-- PowerShell and Bash automation
-- Monitoring and log analysis
-- Security fundamentals and access control
-- Backup and recovery concepts
-- Documentation and operational reporting
+- DNS, DHCP, and Network Troubleshooting
+- Linux System Administration
+- PowerShell and Bash Automation
+- Monitoring and Log Analysis
+- Security Fundamentals and Access Control
+- Backup and Recovery
+- Documentation and Operational Reporting
 
 ## Portfolio
 
