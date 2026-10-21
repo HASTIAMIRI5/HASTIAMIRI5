@@ -1,11 +1,11 @@
 # 🚀 Hasti Amiri
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Infrastructure+Engineer;Systems+Administration;Network+%26+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Infrastructure+Engineer;Systems+Administrator;Network+%26+Security" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <strong>IT Infrastructure Engineer • Systems Administration • Networking • Security Fundamentals</strong>
+  <strong>IT Infrastructure Engineer | Systems Administrator | Network & Security Specialist</strong>
 </p>
 
 <p align="center">
@@ -17,21 +17,23 @@
 
 ---
 
-## About
+## Summary
 
-IT professional focused on infrastructure operations, systems administration, networking, automation, and secure technical support. I build reliable environments through hands-on troubleshooting, structured documentation, and practical implementation across Windows, Linux, and network-focused lab scenarios.
+IT professional with hands-on experience in infrastructure support, systems administration, networking, troubleshooting, and automation. Strong focus on secure and reliable IT environments, with practical experience in Windows Server, Linux systems, networking, monitoring, and operational documentation.
 
-## Core Skills
+## Technical Skills
 
 - Windows Server Administration
 - Active Directory
 - DNS, DHCP, and Network Troubleshooting
-- Linux System Administration
-- PowerShell and Bash Automation
+- Linux Administration
+- PowerShell Automation
+- Bash Scripting
 - Monitoring and Log Analysis
-- Security Fundamentals and Access Control
+- Security Fundamentals
+- Access Control
 - Backup and Recovery
-- Documentation and Operational Reporting
+- Documentation and Reporting
 
 ## Portfolio
 
@@ -62,34 +64,15 @@ IT professional focused on infrastructure operations, systems administration, ne
 - GitHub Profile Repository  
   https://github.com/HASTIAMIRI5/HASTIAMIRI5
 
-## Career Focus
+## Keywords
 
-- IT Infrastructure Engineer
-- Systems Administrator
-- Network & Security Support
-- Infrastructure Operations
-- Automation & Troubleshooting
+IT Administrator, Systems Administrator, Infrastructure Support, Windows Server, Active Directory, Linux, Networking, PowerShell, Monitoring, Security, Troubleshooting, IT Operations
 
 ## Languages
-
 English C1+ | German A1
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASTIAMIRI5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HASTIAMIRI5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Learning by doing. Building reliable systems. Documenting every step.</i>
 </p>
