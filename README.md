@@ -155,6 +155,42 @@ Status: Planned
 
 A practical introduction to cloud identity, security, and user administration.
 
+Explore users, groups, roles, and licensing.
+
+Document multifactor authentication concepts.
+
+Study conditional access prerequisites.
+
+Apply least-privilege principles where supported by the lab.
+
+Deliverables: Identity diagrams · Configuration notes · Security checklist
+View Repository
+
+04 — PROJECT STANDARDS
+
+Every completed project should include:
+StandardWhat it demonstratesArchitectureClear understanding of system componentsDocumentationReproducible setup and configurationValidationTests and actual resultsTroubleshootingStructured diagnosis and resolutionSecurityAppropriate permissions and safe practicesEvidenceGenuine screenshots and sanitized output 
+
+05 — CURRENT LEARNING ROADMAP
+
+[ ] Windows Server & Active Directory
+
+[ ] DNS, DHCP & Network Troubleshooting
+
+[ ] PowerShell Administration
+
+[ ] Linux System Administration
+
+[ ] Backup, Recovery & Monitoring
+
+[ ] Microsoft 365 & Identity Fundamentals
+
+[ ] German for IT workplace communication
+
+>_ PRINCIPLES
+
+Practical learning. Clear documentation. Secure configurations. Continuous improvement.
+This profile documents an ongoing learning journey. Project status and skill claims reflect actual implementation and verified results.
 - Explore identity and access concepts
 - Understand authentication and MFA basics
 - Review cloud administration workflows
