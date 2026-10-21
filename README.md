@@ -1,4 +1,3 @@
->_ [YOUR NAME]
 
 IT Administration · Systems & Networking · Infrastructure Security
 
