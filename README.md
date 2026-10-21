@@ -1,65 +1,73 @@
-# Hasti Amiri
+# 🚀 Hasti Amiri
 
-IT Administration · Systems & Networking · Infrastructure Security
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Administrator+%7C+Systems+%26+Networking;Infrastructure+Security;Learning+by+doing" alt="Typing SVG" />
+</div>
 
-Building practical skills through hands-on labs, technical troubleshooting, and clear documentation.
+<p align="center">
+  <strong>IT Administration · Systems & Networking · Infrastructure Security</strong>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com) · [GitHub](https://github.com/HASTIAMIRI5)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## About Me
+## 👋 About Me
 
-Information Technology graduate focused on IT infrastructure, system administration, networking, and security. I enjoy building practical lab environments to strengthen real-world administration skills, troubleshoot technical issues, and document repeatable solutions.
+Information Technology graduate focused on IT infrastructure, systems administration, networking, and security. I enjoy building practical lab environments, troubleshooting real-world issues, and documenting solutions clearly.
 
-My goal is to grow into a role such as IT Administrator or Junior System Administrator, with a strong interest in secure and reliable infrastructure operations.
+My goal is to grow into a role such as IT Administrator or Junior System Administrator, with a strong interest in secure, reliable, and well-documented infrastructure operations.
 
-## Professional Profile
+## 🧭 Professional Profile
 
-- Career target: IT Administrator / Junior System Administrator
-- Preferred market: Germany
-- Languages: English C1+ · German A1 (currently learning)
+- 🎯 Career target: IT Administrator / Junior System Administrator
+- 🌍 Preferred market: Germany
+- 🗣️ Languages: English C1+ · German A1 (currently learning)
 
-## Technical Toolkit
+## 🛠️ Technical Toolkit
 
-### Infrastructure & Windows
+### 🖥️ Infrastructure & Windows
 - Windows Server
 - Active Directory (AD DS)
 - DNS and DHCP
 - Group Policy Management
 - File and Access Permissions
 
-### Automation & Scripting
+### ⚙️ Automation & Scripting
 - PowerShell
 - Bash fundamentals
 - Task automation and routine admin workflows
 
-### Networking
+### 🌐 Networking
 - TCP/IP
 - IPv4 and subnetting
 - Connectivity troubleshooting
 - Basic packet analysis concepts
 
-### Security & Administration
+### 🔐 Security & Administration
 - Identity and access basics
 - Security hardening principles
 - Log review and troubleshooting
 - Backup and recovery fundamentals
 
-### Tools & Environments
+### 🧪 Tools & Environments
 - VMware / Virtual Labs
 - Windows Server / Linux environments
 - Git and documentation workflows
 
-> Skills are developed through practical lab work and updated as proficiency is validated.
+> Skills are developed through hands-on lab work and updated as proficiency is verified.
 
-## Featured Projects
+## 📌 Featured Projects
 
-### 01. Windows Server & Active Directory Lab
+### 01. 🏢 Windows Server & Active Directory Lab
 
 Windows Server · AD DS · DNS · GPO
 
-Status: Planned
+Status: 🟡 Planned
 
-A virtual Windows domain environment designed to practice core system administration tasks.
+A virtual Windows domain environment designed to practice core systems administration tasks.
 
 - Deploy a domain controller and configure Active Directory
 - Create users, organizational units, and security groups
@@ -69,11 +77,11 @@ A virtual Windows domain environment designed to practice core system administra
 
 Deliverables: Architecture diagram · Setup guide · Screenshots · Validation notes
 
-### 02. PowerShell Administration Toolkit
+### 02. 🧰 PowerShell Administration Toolkit
 
 PowerShell · Automation · Windows
 
-Status: Planned
+Status: 🟡 Planned
 
 A collection of practical scripts focused on everyday IT administration.
 
@@ -85,11 +93,11 @@ A collection of practical scripts focused on everyday IT administration.
 
 Deliverables: Scripts · Usage examples · Sample reports · Documentation
 
-### 03. Network Troubleshooting Lab
+### 03. 🌐 Network Troubleshooting Lab
 
 TCP/IP · DNS · DHCP · Wireshark
 
-Status: Planned
+Status: 🟡 Planned
 
 A hands-on networking lab built around troubleshooting and documentation.
 
@@ -101,11 +109,11 @@ A hands-on networking lab built around troubleshooting and documentation.
 
 Deliverables: Network diagrams · Test results · Troubleshooting reports
 
-### 04. Linux System Administration Lab
+### 04. 🐧 Linux System Administration Lab
 
 Linux · Bash · SSH · Systemd
 
-Status: Planned
+Status: 🟡 Planned
 
 A practical Linux environment for learning essential day-to-day administration skills.
 
@@ -117,11 +125,11 @@ A practical Linux environment for learning essential day-to-day administration s
 
 Deliverables: Command reference · Configuration notes · Validation evidence
 
-### 05. Backup & Disaster Recovery Lab
+### 05. 💾 Backup & Disaster Recovery Lab
 
 Backup · Restore · Recovery
 
-Status: Planned
+Status: 🟡 Planned
 
 A controlled lab focused on backup planning, recovery testing, and documentation.
 
@@ -132,11 +140,11 @@ A controlled lab focused on backup planning, recovery testing, and documentation
 
 Deliverables: Recovery procedure · Test report · Verification checklist
 
-### 06. Infrastructure Monitoring & Log Analysis
+### 06. 📊 Infrastructure Monitoring & Log Analysis
 
 Monitoring · Logs · Troubleshooting
 
-Status: Planned
+Status: 🟡 Planned
 
 A lab for reviewing system health, logs, and basic incident investigation.
 
@@ -147,70 +155,73 @@ A lab for reviewing system health, logs, and basic incident investigation.
 
 Deliverables: Monitoring notes · Incident reports · Sample findings
 
-### 07. Microsoft 365 & Identity Management
+### 07. ☁️ Microsoft 365 & Identity Management
 
 Microsoft 365 · Entra ID · MFA
 
-Status: Planned
+Status: 🟡 Planned
 
 A practical introduction to cloud identity, security, and user administration.
 
-Explore users, groups, roles, and licensing.
-
-Document multifactor authentication concepts.
-
-Study conditional access prerequisites.
-
-Apply least-privilege principles where supported by the lab.
+- Explore users, groups, roles, and licensing
+- Document multifactor authentication concepts
+- Study conditional access prerequisites
+- Apply least-privilege principles where supported by the lab
 
 Deliverables: Identity diagrams · Configuration notes · Security checklist
-View Repository
 
-04 — PROJECT STANDARDS
+## ✅ Project Standards
 
 Every completed project should include:
-StandardWhat it demonstratesArchitectureClear understanding of system componentsDocumentationReproducible setup and configurationValidationTests and actual resultsTroubleshootingStructured diagnosis and resolutionSecurityAppropriate permissions and safe practicesEvidenceGenuine screenshots and sanitized output 
 
-05 — CURRENT LEARNING ROADMAP
+| Standard | What it demonstrates |
+| --- | --- |
+| 🏗️ Architecture | Clear understanding of system components |
+| 📝 Documentation | Reproducible setup and configuration |
+| 🧪 Validation | Tests and actual results |
+| 🔎 Troubleshooting | Structured diagnosis and resolution |
+| 📦 Security | Safe and reliable implementation |
 
-[ ] Windows Server & Active Directory
+## 🗺️ Current Learning Roadmap
 
-[ ] DNS, DHCP & Network Troubleshooting
+- [ ] 🏢 Windows Server & Active Directory
+- [ ] 🌐 DNS, DHCP & Network Troubleshooting
+- [ ] ⚙️ PowerShell Administration
+- [ ] 🐧 Linux System Administration
+- [ ] 💾 Backup, Recovery & Monitoring
+- [ ] ☁️ Microsoft 365 & Identity Fundamentals
+- [ ] 🗣️ German for IT workplace communication
 
-[ ] PowerShell Administration
-
-[ ] Linux System Administration
-
-[ ] Backup, Recovery & Monitoring
-
-[ ] Microsoft 365 & Identity Fundamentals
-
-[ ] German for IT workplace communication
-
->_ PRINCIPLES
+## 🌱 Working Principles
 
 Practical learning. Clear documentation. Secure configurations. Continuous improvement.
+
 This profile documents an ongoing learning journey. Project status and skill claims reflect actual implementation and verified results.
+
 - Explore identity and access concepts
 - Understand authentication and MFA basics
 - Review cloud administration workflows
 - Connect fundamentals to enterprise IT operations
 
-Deliverables: Notes · Configuration examples · Learning checkpoints
-
-## Current Focus
+## 🎯 Current Focus
 
 - Deepening skills in Windows Server and Active Directory
 - Practicing troubleshooting in networking and Linux environments
 - Strengthening documentation and technical writing
 - Building secure, structured admin workflows
 
-## Contact
+## 📬 Contact
 
 If you would like to connect or discuss IT infrastructure, systems administration, or learning opportunities, feel free to reach out.
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com) · [GitHub](https://github.com/HASTIAMIRI5)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-"Learning by doing. Building the fundamentals. Documenting the process."
+<p align="center">
+  <i>Learning by doing. Building the fundamentals. Documenting the process.</i>
+</p>
