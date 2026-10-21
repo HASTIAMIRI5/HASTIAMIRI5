@@ -1,7 +1,7 @@
 # 🚀 Hasti Amiri
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Administrator+%7C+Systems+%26+Networking;Infrastructure+Security;Learning+by+doing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Administrator+%7C+Systems+%26+Networking;Infrastructure+Operations;Troubleshooting+%26+Monitoring" alt="IT Administrator | Systems & Networking" />
 </div>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ## 👋 About Me
 
-Information Technology graduate focused on IT infrastructure, systems administration, networking, and security. I enjoy building practical lab environments, troubleshooting real-world issues, and documenting solutions clearly.
+Information Technology graduate focused on IT infrastructure, systems administration, networking, and security. I enjoy building practical lab environments, troubleshooting real-world issues, and documenting my work in a clear and professional way.
 
-My goal is to grow into a role such as IT Administrator or Junior System Administrator, with a strong interest in secure, reliable, and well-documented infrastructure operations.
+My goal is to grow into a role such as IT Administrator, Junior System Administrator, or Infrastructure Support Engineer, with a strong interest in secure, reliable, and well-documented infrastructure operations.
 
 ## 🧭 Professional Profile
 
@@ -144,16 +144,19 @@ Deliverables: Recovery procedure · Test report · Verification checklist
 
 Monitoring · Logs · Troubleshooting
 
-Status: 🟡 Planned
+Status: ✅ Portfolio Project
 
-A lab for reviewing system health, logs, and basic incident investigation.
+A formal IT operations lab focused on infrastructure monitoring, log review, and basic incident investigation.
 
 - Monitor key system resources and services
-- Review system and application logs
-- Identify warning conditions and anomalies
-- Document findings and corrective actions
+- Review system and application logs for warnings and anomalies
+- Identify service degradation and operational risk conditions
+- Correlate metrics with log evidence to determine likely root causes
+- Document findings, corrective actions, and validation outcomes
 
-Deliverables: Monitoring notes · Incident reports · Sample findings
+Deliverables: Monitoring notes · Incident reports · Root-cause analysis · Sample findings
+
+Repository: https://github.com/HASTIAMIRI5/Infrastructure-Monitoring-Log-Analysis
 
 ### 07. ☁️ Microsoft 365 & Identity Management
 
@@ -197,11 +200,6 @@ Every completed project should include:
 Practical learning. Clear documentation. Secure configurations. Continuous improvement.
 
 This profile documents an ongoing learning journey. Project status and skill claims reflect actual implementation and verified results.
-
-- Explore identity and access concepts
-- Understand authentication and MFA basics
-- Review cloud administration workflows
-- Connect fundamentals to enterprise IT operations
 
 ## 🎯 Current Focus
 
