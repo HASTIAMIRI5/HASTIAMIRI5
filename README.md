@@ -1,228 +1,137 @@
-IT Infrastructure & Systems Administration
+>_ [YOUR NAME]
 
-IT Administrator | Windows Server | Microsoft 365 | Networking | PowerShell
-I am an Information Technology graduate building practical expertise in systems administration, IT infrastructure, networking, and infrastructure security.
-I focus on hands-on labs that simulate common IT administration tasks, document troubleshooting workflows, and demonstrate technical skills through reproducible projects.
-My GitHub repositories showcase my learning progress, technical documentation, configuration examples, and tested scripts.
+IT Administration · Systems & Networking · Infrastructure Security
 
-Core Technical Areas
+Building practical skills. Solving technical problems. Documenting every step.
+LinkedIn · Email
 
-Windows Infrastructure: Windows Server, Active Directory, Group Policy, DNS, DHCP
+01 — PROFESSIONAL PROFILE
 
-Microsoft Cloud: Microsoft 365, Microsoft Entra ID, identity and access management
+Information Technology graduate focused on IT infrastructure, systems administration, networking, and security.
+I build hands-on lab environments to practice real-world administration tasks, troubleshoot technical issues, and document reproducible solutions.
+Career target: IT Administrator / Junior System Administrator
+Preferred market: Germany
+Languages: English C1+ · German A1 (currently learning)
 
-Networking: TCP/IP, IPv4, subnetting, VLAN fundamentals, VPN concepts, troubleshooting
+02 — TECHNICAL TOOLKIT
 
-Automation: PowerShell, Bash fundamentals, administrative scripting
+DomainTechnologies & SkillsWindows InfrastructureWindows Server · Active Directory · DNS · DHCP · Group PolicyAutomationPowerShell · Bash fundamentalsNetworkingTCP/IP · IPv4 · Subnetting · WiresharkLinuxUsers & Groups · Permissions · Services · System LogsVirtualizationHyper-V · VirtualBoxSecurity & OperationsLeast Privilege · Backup & Recovery · Monitoring · Log AnalysisCloud & IdentityMicrosoft 365 · Microsoft Entra ID fundamentals 
+Skills are developed through practical labs and will be updated as proficiency is validated.
 
-Virtualization: Hyper-V, VirtualBox; VMware fundamentals
+03 — FEATURED PROJECTS
 
-Security & Operations: Least privilege, patch management, backup and recovery, monitoring, log analysis
+01. Windows Server & Active Directory Lab
 
-Linux: Users, permissions, services, packages, system logs
-
-Skills and proficiency levels will be updated as each area is practiced and validated.
-
-Featured Projects
-
-01. Windows Server & Active Directory Enterprise Lab
-
-Technologies: Windows Server, AD DS, DNS, GPO, PowerShell
+WINDOWS SERVER AD DS DNS GPO
 Status: Planned
-Build a small Windows domain environment and document essential administration workflows.
+A virtual Windows domain environment designed to practice core system administration.
 
-Deploy a domain controller in a virtual lab
+Deploy a domain controller and configure Active Directory.
 
-Configure Active Directory, organizational units, users, and security groups
+Create users, organizational units, and security groups.
 
-Configure DNS and validate domain name resolution
+Configure DNS and join a Windows client to the domain.
 
-Join a Windows client to the domain
+Apply Group Policy and configure file permissions.
 
-Implement Group Policy for selected security and desktop settings
+Test access controls and document troubleshooting.
 
-Configure NTFS and shared-folder permissions
+Deliverables: Architecture diagram · Setup guide · Screenshots · Validation tests
+View Repository
 
-Test account access and document troubleshooting scenarios
+02. PowerShell Administration Toolkit
 
-Include a network diagram, screenshots, and a step-by-step deployment guide
-
-Goal: Demonstrate practical Windows domain administration.
-
-
-02. PowerShell IT Administration Toolkit
-
-Technologies: PowerShell, Windows
+POWERSHELL AUTOMATION WINDOWS
 Status: Planned
-Create a collection of documented scripts for routine administrative tasks.
+A collection of tested scripts for routine administrative tasks.
 
-Collect system and operating system information
+Collect system information.
 
-Generate user and group inventory reports
+Generate user and group inventory reports.
 
-Check selected Windows services
+Check Windows services and selected event logs.
 
-Review relevant system event logs
+Export reports to CSV.
 
-Export results to CSV
+Document usage, errors, and sample output.
 
-Add input validation, error handling, and usage examples
+Deliverables: Scripts · Usage examples · Sample reports · Documentation
+View Repository
 
-Goal: Demonstrate safe, repeatable administrative automation.
+03. Network Troubleshooting Lab
 
-
-03. Network Troubleshooting & Infrastructure Lab
-
-Technologies: TCP/IP, DNS, DHCP, Wireshark
+TCP/IP DNS DHCP WIRESHARK
 Status: Planned
-Document common network problems and a structured troubleshooting process.
+A collection of practical networking scenarios and structured troubleshooting reports.
 
-IP addressing and subnetting exercises
+Diagnose DNS resolution failures.
 
-DNS resolution diagnostics
+Investigate IP configuration and connectivity.
 
-DHCP configuration and lease troubleshooting
+Practice subnetting and DHCP troubleshooting.
 
-Connectivity testing with standard command-line tools
+Analyze selected network traffic.
 
-Basic packet analysis with Wireshark
+Document root causes, tests, and resolutions.
 
-Root-cause notes, test evidence, and corrective actions
-
-Goal: Demonstrate systematic network troubleshooting.
-
+Deliverables: Network diagrams · Test results · Troubleshooting reports
+View Repository
 
 04. Linux System Administration Lab
 
-Technologies: Linux, Bash, SSH, systemd
+LINUX BASH SSH SYSTEMD
 Status: Planned
-Practice common Linux administration and operational tasks.
+A hands-on environment for practicing essential Linux administration.
 
-Manage local users and groups
+Manage users, groups, and file permissions.
 
-Configure file ownership and permissions
+Install packages and manage services.
 
-Install packages and manage services
+Inspect logs and troubleshoot basic failures.
 
-Inspect system logs and diagnose basic failures
+Practice SSH administration in a controlled lab.
 
-Practice SSH administration in a lab
+Write basic Bash scripts.
 
-Write basic Bash scripts and document their output
+Deliverables: Command reference · Configuration notes · Test evidence
+View Repository
 
-Goal: Demonstrate foundational Linux administration skills.
+05. Backup & Disaster Recovery Lab
 
-
-05. Backup, Restore & Disaster Recovery Lab
-
-Technologies: Windows/Linux, backup tools, recovery documentation
+BACKUP RESTORE RECOVERY
 Status: Planned
-Create a controlled lab to test backup and recovery procedures.
+A controlled lab for validating backup and recovery procedures.
 
-Define backup scope and recovery objectives
+Define backup scope and recovery objectives.
 
-Back up selected test files and configurations
+Back up selected test files and configurations.
 
-Restore data into a test location
+Restore data and verify integrity.
 
-Verify file integrity and recovery results
+Record recovery steps, results, and limitations.
 
-Document recovery steps and limitations
+Deliverables: Recovery procedure · Test report · Verification checklist
+View Repository
 
-Goal: Demonstrate an understanding of data protection and recovery validation.
 06. Infrastructure Monitoring & Log Analysis
 
-Technologies: System logs, monitoring fundamentals, Linux/Windows
+MONITORING LOGS TROUBLESHOOTING
 Status: Planned
-Develop a small monitoring lab to observe system health and identify common operational issues.
+A lab focused on system health checks and basic incident investigation.
 
-Monitor selected resource and service indicators
+Monitor selected system resources and services.
 
-Review system and application logs
+Review system and application logs.
 
-Define example warning and critical conditions
+Define example warning conditions.
 
-Document an incident investigation workflow
+Document findings and corrective actions.
 
-Include sample findings and remediation notes
+Deliverables: Monitoring notes · Incident reports · Sample findings
+View Repository
 
-Goal: Demonstrate basic operational monitoring and incident troubleshooting.
+07. Microsoft 365 & Identity Management
 
-
-07. Microsoft 365 & Identity Management Lab
-
-Technologies: Microsoft 365, Microsoft Entra ID, MFA, identity management
+MICROSOFT 365 ENTRA ID MFA
 Status: Planned
-Explore identity and access management concepts using authorized lab or trial resources where available.
-
-Document users, groups, roles, and licensing concepts
-
-Explain multifactor authentication (MFA)
-
-Explore conditional access concepts and prerequisites
-
-Document least-privilege access decisions
-
-Include configuration evidence where the environment permits
-
-Goal: Demonstrate foundational understanding of modern Microsoft identity administration.
-
-
-How I Document Projects
-
-Each project aims to include:
-
-Overview: Problem, scope, and objectives
-
-Architecture: Network diagram and component descriptions
-
-Implementation: Prerequisites and configuration steps
-
-Validation: Tests, expected results, and actual results
-
-Troubleshooting: Symptoms, diagnosis, and resolution
-
-Security: Permissions, risks, and relevant safeguards
-
-Evidence: Genuine screenshots and sanitized sample output
-
-All projects are developed in personal lab environments. No confidential credentials, personal data, or production-system information should be published.
-
-Current Learning Priorities
-
-Windows Server and Active Directory
-
-DNS, DHCP, and network troubleshooting
-
-PowerShell administration
-
-Linux system administration
-
-Microsoft 365 and identity fundamentals
-
-Backup, monitoring, and infrastructure security
-
-Languages
-
-English: C1+
-
-German: A1 — currently learning
-
-Career Interests
-
-Junior IT Administrator
-
-Junior System Administrator
-
-IT Infrastructure Support
-
-Junior Network Administrator
-
-Target market: Germany
-
-Contact
-
-Email: hastiamiri418@gmail.com
-
-This profile is a work in progress. Project status, technical skills, and implementation claims reflect actual progress and verified results.
-
+A practical introduction to cloud identity and access management.
