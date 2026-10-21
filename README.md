@@ -1,63 +1,93 @@
 # 🚀 Hasti Amiri
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Administrator+%7C+Systems+%26+Networking;Infrastructure+Operations;Troubleshooting+%26+Monitoring" alt="IT Administrator | Systems & Networking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Administrator+%7C+Systems+%26+Networking;Infrastructure+Security+%7C+Automation;Reliable+Operations+%7C+Continuous+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <strong>IT Administration · Systems & Networking · Infrastructure Security</strong>
+  <strong>IT Administration · Systems & Networking · Infrastructure Security · Automation</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Projects-Repository%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio Repositories" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HASTIAMIRI5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HASTIAMIRI5?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/HASTIAMIRI5?style=social" alt="GitHub stars" />
+</p>
+
+---
 
 ## 👋 About Me
 
-Information Technology graduate focused on IT infrastructure, systems administration, networking, and security. I enjoy building practical lab environments, troubleshooting real-world issues, and documenting my work in a clear and professional way.
+I am an Information Technology graduate with a strong interest in IT infrastructure, systems administration, networking, cybersecurity fundamentals, and practical support operations. My focus is on building secure, reliable, and well-documented environments by combining technical troubleshooting, structured processes, and hands-on lab experience.
 
-My goal is to grow into a role such as IT Administrator, Junior System Administrator, or Infrastructure Support Engineer, with a strong interest in secure, reliable, and well-documented infrastructure operations.
+I enjoy working with Windows Server environments, networking fundamentals, Linux administration, scripting, and infrastructure operations. My goal is to grow into a role where I can contribute to dependable IT systems, improve service reliability, and support secure digital operations in real-world environments.
+
+I am especially interested in:
+
+- Windows Server and Active Directory administration
+- Network troubleshooting, IP connectivity, and DNS/DHCP operations
+- PowerShell automation and repetitive admin workflow optimization
+- Linux system administration and service management
+- Monitoring, log review, and incident investigation
+- Security fundamentals, access control, and hardening principles
+
+---
 
 ## 🧭 Professional Profile
 
-- 🎯 Career target: IT Administrator / Junior System Administrator
+- 🎯 Career target: IT Administrator / Junior System Administrator / Infrastructure Support Engineer
 - 🌍 Preferred market: Germany
 - 🗣️ Languages: English C1+ · German A1 (currently learning)
+- 🧠 Core strength: Translating technical knowledge into practical, reliable, documented infrastructure solutions
+- 📚 Learning approach: Lab-based practice, troubleshooting, and evidence-driven documentation
 
-## 🛠️ Technical Toolkit
+---
 
-### 🖥️ Infrastructure & Windows
+## 🛠️ Core Technical Stack
+
+### 🖥️ Infrastructure & Systems Administration
 - Windows Server
 - Active Directory (AD DS)
 - DNS and DHCP
 - Group Policy Management
-- File and Access Permissions
+- User and access management
+- File permissions and basic security policies
 
 ### ⚙️ Automation & Scripting
 - PowerShell
 - Bash fundamentals
-- Task automation and routine admin workflows
+- Task automation and admin workflow scripting
+- CSV/report generation and system inventory tasks
 
 ### 🌐 Networking
-- TCP/IP
-- IPv4 and subnetting
-- Connectivity troubleshooting
-- Basic packet analysis concepts
+- TCP/IP and subnetting
+- IPv4 addressing and routing basics
+- Connectivity diagnostics and troubleshooting
+- DNS resolution and basic packet analysis concepts
 
-### 🔐 Security & Administration
-- Identity and access basics
+### 🔐 Security & Operations
+- Identity and access fundamentals
 - Security hardening principles
-- Log review and troubleshooting
-- Backup and recovery fundamentals
+- Log review and issue diagnosis
+- Backup and recovery concepts
+- Documentation of operational findings and remediation steps
 
-### 🧪 Tools & Environments
-- VMware / Virtual Labs
-- Windows Server / Linux environments
-- Git and documentation workflows
+### 🧪 Lab Environments & Tools
+- VMware / virtual lab platforms
+- Windows Server and Linux environments
+- Git/GitHub workflows
+- Technical documentation and process tracking
 
-> Skills are developed through hands-on lab work and updated as proficiency is verified.
+> Skills are continuously developed through hands-on labs, real-world troubleshooting exercises, and verification of outcomes.
+
+---
 
 ## 📌 Featured Projects
 
@@ -67,13 +97,13 @@ Windows Server · AD DS · DNS · GPO
 
 Status: 🟡 Planned
 
-A virtual Windows domain environment designed to practice core systems administration tasks.
+A virtual Windows domain environment focused on core systems administration practices.
 
-- Deploy a domain controller and configure Active Directory
-- Create users, organizational units, and security groups
-- Configure DNS and join a Windows client to the domain
-- Apply Group Policy and configure permissions
-- Validate access controls and document troubleshooting
+- Configure a domain controller and Active Directory structure
+- Create users, groups, and organizational units
+- Manage DNS and join Windows clients to the domain
+- Apply Group Policy and access control settings
+- Validate security configurations and troubleshoot issues
 
 Deliverables: Architecture diagram · Setup guide · Screenshots · Validation notes
 
@@ -83,15 +113,15 @@ PowerShell · Automation · Windows
 
 Status: 🟡 Planned
 
-A collection of practical scripts focused on everyday IT administration.
+A practical toolkit covering routine administrative tasks and daily system operations.
 
-- Collect system information
+- Collect system information and health summaries
 - Generate user and group inventory reports
-- Check Windows services and selected event logs
-- Export reports to CSV
-- Document errors, usage, and sample output
+- Review services and selected event logs
+- Export findings to CSV for documentation
+- Record sample output and common use cases
 
-Deliverables: Scripts · Usage examples · Sample reports · Documentation
+Deliverables: Scripts · Usage examples · Reports · Documentation
 
 ### 03. 🌐 Network Troubleshooting Lab
 
@@ -99,13 +129,13 @@ TCP/IP · DNS · DHCP · Wireshark
 
 Status: 🟡 Planned
 
-A hands-on networking lab built around troubleshooting and documentation.
+A networking lab designed around structured fault analysis and documentation.
 
-- Diagnose DNS resolution failures
-- Investigate IP configuration and connectivity issues
-- Practice subnetting and DHCP troubleshooting
-- Analyze traffic patterns and network behavior
-- Record root cause, validation steps, and resolutions
+- Diagnose common DNS and connectivity failures
+- Troubleshoot DHCP and IP configuration problems
+- Practice subnetting and traffic flow analysis
+- Review packet-level behavior and identify root causes
+- Document findings, fixes, and validation steps
 
 Deliverables: Network diagrams · Test results · Troubleshooting reports
 
@@ -115,13 +145,13 @@ Linux · Bash · SSH · Systemd
 
 Status: 🟡 Planned
 
-A practical Linux environment for learning essential day-to-day administration skills.
+A practical Linux environment for learning essential administrative responsibilities.
 
 - Manage users, groups, and permissions
-- Install packages and control services
-- Review logs and troubleshoot common failures
-- Practice SSH configuration and access control
-- Write basic Bash automation scripts
+- Install packages and maintain services
+- Review logs and troubleshoot common issues
+- Configure secure SSH access and controls
+- Write basic Bash scripts for automation
 
 Deliverables: Command reference · Configuration notes · Validation evidence
 
@@ -131,12 +161,12 @@ Backup · Restore · Recovery
 
 Status: 🟡 Planned
 
-A controlled lab focused on backup planning, recovery testing, and documentation.
+A focused lab for backup planning, restore testing, and operational documentation.
 
 - Define backup scope and recovery objectives
-- Back up selected files and configurations
-- Restore data and verify integrity
-- Record steps, outcomes, and limitations
+- Back up critical files and configuration data
+- Restore and validate integrity after test recovery
+- Document outcomes, limitations, and improvements
 
 Deliverables: Recovery procedure · Test report · Verification checklist
 
@@ -146,13 +176,13 @@ Monitoring · Logs · Troubleshooting
 
 Status: ✅ Portfolio Project
 
-A formal IT operations lab focused on infrastructure monitoring, log review, and basic incident investigation.
+A formal IT operations lab focused on infrastructure health, log analysis, and incident investigation.
 
-- Monitor key system resources and services
-- Review system and application logs for warnings and anomalies
-- Identify service degradation and operational risk conditions
-- Correlate metrics with log evidence to determine likely root causes
-- Document findings, corrective actions, and validation outcomes
+- Monitor critical system resources and services
+- Review logs for warnings, anomalies, and operational risks
+- Correlate metrics with evidence to identify likely root causes
+- Strengthen troubleshooting and documentation skills
+- Present findings and corrective actions clearly
 
 Deliverables: Monitoring notes · Incident reports · Root-cause analysis · Sample findings
 
@@ -164,53 +194,80 @@ Microsoft 365 · Entra ID · MFA
 
 Status: 🟡 Planned
 
-A practical introduction to cloud identity, security, and user administration.
+A practical introduction to cloud identity, authentication, and access governance.
 
-- Explore users, groups, roles, and licensing
-- Document multifactor authentication concepts
-- Study conditional access prerequisites
-- Apply least-privilege principles where supported by the lab
+- Explore user, group, role, and licensing concepts
+- Review multi-factor authentication and security controls
+- Understand conditional access and least-privilege principles
+- Document identity management and onboarding best practices
 
 Deliverables: Identity diagrams · Configuration notes · Security checklist
 
+---
+
 ## ✅ Project Standards
 
-Every completed project should include:
+Every completed project should demonstrate the following:
 
-| Standard | What it demonstrates |
-| --- | --- |
-| 🏗️ Architecture | Clear understanding of system components |
-| 📝 Documentation | Reproducible setup and configuration |
-| 🧪 Validation | Tests and actual results |
-| 🔎 Troubleshooting | Structured diagnosis and resolution |
-| 📦 Security | Safe and reliable implementation |
+- 🏗️ Architecture: Clear system design and component understanding
+- 📝 Documentation: Reproducible environment setup and clear instructions
+- 🧪 Validation: Tests, evidence, and real results
+- 🔎 Troubleshooting: Structured diagnosis and resolution
+- 📦 Security: Safe, reliable, and practical implementation
+
+---
 
 ## 🗺️ Current Learning Roadmap
 
-- [ ] 🏢 Windows Server & Active Directory
-- [ ] 🌐 DNS, DHCP & Network Troubleshooting
-- [ ] ⚙️ PowerShell Administration
-- [ ] 🐧 Linux System Administration
-- [ ] 💾 Backup, Recovery & Monitoring
-- [ ] ☁️ Microsoft 365 & Identity Fundamentals
+- [x] 🏢 Windows Server & Active Directory fundamentals
+- [x] 🌐 DNS, DHCP & network troubleshooting basics
+- [x] ⚙️ PowerShell scripting foundations
+- [x] 🐧 Linux system administration essentials
+- [x] 💾 Backup, recovery, and operational documentation
+- [ ] ☁️ Microsoft 365 & identity management
+- [ ] 🔐 Security hardening and access control practices
 - [ ] 🗣️ German for IT workplace communication
+- [ ] 📈 Monitoring, log analysis, and incident response workflows
+
+---
 
 ## 🌱 Working Principles
 
-Practical learning. Clear documentation. Secure configurations. Continuous improvement.
+Practical learning. Clear documentation. Secure configurations. Reliable operations. Continuous improvement.
 
-This profile documents an ongoing learning journey. Project status and skill claims reflect actual implementation and verified results.
+This profile reflects an ongoing learning journey driven by technical practice, structured troubleshooting, and measurable skill development.
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASTIAMIRI5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HASTIAMIRI5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🎯 Current Focus
 
-- Deepening skills in Windows Server and Active Directory
-- Practicing troubleshooting in networking and Linux environments
-- Strengthening documentation and technical writing
-- Building secure, structured admin workflows
+- Deepening expertise in Windows Server and Active Directory
+- Practicing networking troubleshooting in real lab scenarios
+- Strengthening documentation and technical writing skills
+- Improving automation with PowerShell and Bash
+- Advancing security, monitoring, and structured operations knowledge
+
+---
 
 ## 📬 Contact
 
-If you would like to connect or discuss IT infrastructure, systems administration, or learning opportunities, feel free to reach out.
+If you are looking for a motivated learner, a hands-on IT professional, or someone eager to build real infrastructure skills, I would welcome the opportunity to connect.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -221,5 +278,5 @@ If you would like to connect or discuss IT infrastructure, systems administratio
 ---
 
 <p align="center">
-  <i>Learning by doing. Building the fundamentals. Documenting the process.</i>
+  <i>Learning by doing. Building reliable systems. Documenting every step.</i>
 </p>
