@@ -1,7 +1,7 @@
 # 🚀 Hasti Amiri
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Infrastructure+Engineer;Cybersecurity+Researcher;AI+Systems+Builder; Secure+Automation+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Infrastructure+Engineer;Cybersecurity+Researcher;AI+Systems+Builder;Secure+Automation+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
