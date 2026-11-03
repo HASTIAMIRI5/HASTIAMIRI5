@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">White cat working at a laptop</title>
+  <desc id="desc">A cozy white cat sits behind a teal laptop, focused on its work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3b42"/>
+      <stop offset="1" stop-color="#071a22"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#001013" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect x="12" y="12" width="616" height="336" rx="28" fill="url(#bg)"/>
+  <circle cx="510" cy="78" r="34" fill="#00c7b7" opacity=".12"/>
+  <path d="M70 287h500" stroke="#00c7b7" stroke-opacity=".28" stroke-width="2"/>
+  <!-- cat ears and head -->
+  <path d="M236 164 247 103q2-12 13-4l45 34m38 0 45-34q11-8 13 4l11 61" fill="#fff" stroke="#d8f1ed" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m253 121 34 21-39 12zm147 0-34 21 39 12z" fill="#f3a5b2"/>
+  <path d="M229 174q0-67 77-68h28q77 1 77 68v39q0 62-91 62h-1q-90 0-90-62z" fill="#fff" stroke="#d8f1ed" stroke-width="5"/>
+  <!-- face -->
+  <ellipse cx="280" cy="183" rx="7" ry="10" fill="#17363b"/>
+  <ellipse cx="360" cy="183" rx="7" ry="10" fill="#17363b"/>
+  <path d="m314 198 7 6 7-6q-1 13-7 13t-7-13z" fill="#ef91a5"/>
+  <path d="M321 210q-9 12-19 2m19-2q9 12 19 2" fill="none" stroke="#52676a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M268 202 220 195m49 18-51 8m155-19 48-7m-49 18 51 8" fill="none" stroke="#9aaeb0" stroke-width="2" stroke-linecap="round"/>
+  <!-- paws and laptop -->
+  <path d="M258 263q-15 17-11 34h44q9-18-6-34m82 0q-15 16-6 34h44q4-18-11-34" fill="#fff" stroke="#d8f1ed" stroke-width="4"/>
+  <g filter="url(#shadow)">
+    <path d="M206 222q0-8 9-8h212q9 0 9 8v62H206z" fill="#102a31" stroke="#00c7b7" stroke-width="4"/>
+    <rect x="224" y="230" width="194" height="38" rx="5" fill="#143b40"/>
+    <path d="M184 284h274l22 17q2 5-7 5H170q-9 0-7-5z" fill="#00a99c"/>
+    <path d="M289 291h64" stroke="#d7fffa" stroke-opacity=".75" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="320" y="331" text-anchor="middle" fill="#b9eee8" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">MY LITTLE WORK COMPANION</text>
+</svg>

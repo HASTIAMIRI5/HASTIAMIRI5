@@ -1,13 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A22,45:0B3B42,100:00C7B7&height=220&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=E8FFFB&fontAlignY=38&desc=INFRASTRUCTURE%20%E2%80%A2%20DEFENSE%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=61&animation=fadeIn" alt="Hasti Amiri — Infrastructure, Defense, Intelligent Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A22,45:0B3B42,100:00C7B7&height=220&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=E8FFFB&fontAlignY=38&desc=INFRASTRUCTURE%20%7C%20SECURITY%20%7C%20APPLIED%20AI&descAlignY=58&descSize=17" alt="Hasti Amiri — Infrastructure, Security, Applied AI" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+reliable+systems.;Turning+telemetry+into+insight.;Making+automation+useful+and+human-centered." alt="Building reliable systems; turning telemetry into insight; making automation useful and human-centered." /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+reliable+systems;Turning+telemetry+into+useful+signals;Exploring+applied+AI" alt="Building reliable systems, turning telemetry into useful signals, exploring applied AI" /></a>
 
 <p><strong>Infrastructure Engineer · Security Researcher · Applied AI Practitioner</strong></p>
 
 <a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=071A22" alt="Explore my projects" /></a>
 <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-HASTIAMIRI5-14232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+
+<br />
+<br />
+
+<img src="assets/white-cat-working.svg" alt="A white cat working at a laptop" width="320" />
 
 </div>
 
@@ -15,7 +20,7 @@
 
 ## `01` / About
 
-I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trust—from the foundations of a reliable server to the signals that help teams make better decisions.
+I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trust—whether that means improving a network, strengthening a detection workflow, or building a useful tool.
 
 My approach is practical and evidence-led: build, observe, validate, document, improve.
 
@@ -39,7 +44,7 @@ My approach is practical and evidence-led: build, observe, validate, document, i
 <img src="https://img.shields.io/badge/PowerShell-2671BE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/Bash-303030?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/Networking-087E8B?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
-<img src="https://img.shields.io/badge/Security_Research-113B36?style=flat-square&logo= श?" alt="Security research" />
+<img src="https://img.shields.io/badge/Security_Research-113B36?style=flat-square&logo=security&logoColor=white" alt="Security research" />
 <img src="https://img.shields.io/badge/Automation-00A896?style=flat-square&logo=githubactions&logoColor=white" alt="Automation" />
 <img src="https://img.shields.io/badge/Applied_AI-7357FF?style=flat-square&logo=openai&logoColor=white" alt="Applied AI" />
 </p>
@@ -112,7 +117,7 @@ A growing collection of hands-on labs, operational tools, and research projects.
 
 <div align="center">
 
-<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=C8D9DD&bg_color=071A22" alt="Hasti's GitHub statistics" /></a>
+<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7" alt="Hasti Amiri's GitHub stats" /></a>
 
 <sub>Curiosity in. Better systems out.</sub>
 
