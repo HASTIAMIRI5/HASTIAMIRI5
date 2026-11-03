@@ -1,190 +1,119 @@
-# 🚀 Hasti Amiri
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&lines=IT+Infrastructure+Engineer;Cybersecurity+Researcher;AI+Systems+Builder;Secure+Automation+Architect" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A22,45:0B3B42,100:00C7B7&height=220&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=E8FFFB&fontAlignY=38&desc=INFRASTRUCTURE%20%E2%80%A2%20DEFENSE%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=61&animation=fadeIn" alt="Hasti Amiri — Infrastructure, Defense, Intelligent Systems" />
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+reliable+systems.;Turning+telemetry+into+insight.;Making+automation+useful+and+human-centered." alt="Building reliable systems; turning telemetry into insight; making automation useful and human-centered." /></a>
+
+<p><strong>Infrastructure Engineer · Security Researcher · Applied AI Practitioner</strong></p>
+
+<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=071A22" alt="Explore my projects" /></a>
+<a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-HASTIAMIRI5-14232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+
 </div>
 
-<p align="center">
-  <strong>Infrastructure Engineer • Security Researcher • AI Systems Practitioner • Automation Architect</strong>
+---
+
+## `01` / About
+
+I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trust—from the foundations of a reliable server to the signals that help teams make better decisions.
+
+My approach is practical and evidence-led: build, observe, validate, document, improve.
+
+> **Reliable systems. Useful signals. Thoughtful automation.**
+
+## `02` / What I work on
+
+| **INFRASTRUCTURE** | **SECURITY & DEFENSE** | **APPLIED AI** |
+|:---|:---|:---|
+| Windows Server & Linux administration | Detection engineering & SOC workflows | AI workflow design & orchestration |
+| Active Directory, DNS & DHCP | Telemetry analysis & threat intelligence | Research, summarization & reasoning |
+| Networking, monitoring & observability | Incident response & defensive validation | Agentic tools & operational dashboards |
+| Backup, recovery & automation | Security analytics & anomaly detection | Document intelligence & content workflows |
+
+## `03` / Toolkit
+
+<p>
+<img src="https://img.shields.io/badge/Windows_Server-153A5B?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/PowerShell-2671BE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Bash-303030?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Networking-087E8B?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
+<img src="https://img.shields.io/badge/Security_Research-113B36?style=flat-square&logo= श?" alt="Security research" />
+<img src="https://img.shields.io/badge/Automation-00A896?style=flat-square&logo=githubactions&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/Applied_AI-7357FF?style=flat-square&logo=openai&logoColor=white" alt="Applied AI" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Repositories-0A66C2?style=for-the-badge" alt="Portfolio Repositories" /></a>
-</p>
+## `04` / Selected work
+
+A growing collection of hands-on labs, operational tools, and research projects. Each repository is a small step toward making systems more observable, resilient, and useful.
+
+<details open>
+<summary><strong>Infrastructure & systems</strong></summary>
+<br />
+
+| Project | Focus |
+|:---|:---|
+| [Windows Server & Active Directory Home Lab](https://github.com/HASTIAMIRI5/Windows-Server-Active-Directory-Home-Lab) | Windows Server · identity services |
+| [Linux Server Administration Lab](https://github.com/HASTIAMIRI5/linux-server-administration-lab) | Linux operations |
+| [PowerShell Administration Toolkit](https://github.com/HASTIAMIRI5/PowerShell-Administration-Toolkit) | Administration automation |
+| [Network Troubleshooting Lab](https://github.com/HASTIAMIRI5/Network-Troubleshooting-Lab) | Connectivity · diagnostics |
+| [Backup & Disaster Recovery Lab](https://github.com/HASTIAMIRI5/Backup-Disaster-Recovery-Lab) | Recovery · continuity |
+| [Infrastructure Monitoring & Log Analysis](https://github.com/HASTIAMIRI5/Infrastructure-Monitoring-Log-Analysis) | Monitoring · observability |
+
+</details>
+
+<details open>
+<summary><strong>Cybersecurity & detection</strong></summary>
+<br />
+
+| Project | Focus |
+|:---|:---|
+| [Detection Engineering Lab](https://github.com/HASTIAMIRI5/detection-engineering-lab) | Detection research |
+| [SOC Research Lab](https://github.com/HASTIAMIRI5/soc-research-lab) | SOC workflows |
+| [Telemetry Correlation Engine](https://github.com/HASTIAMIRI5/telemetry-correlation-engine) | Signal correlation |
+| [Threat Intel Ontology](https://github.com/HASTIAMIRI5/threat-intel-ontology) | Threat intelligence modeling |
+| [Incident Response Notebook](https://github.com/HASTIAMIRI5/incident-response-notebook) | Investigation workflows |
+| [Senior Red Team](https://github.com/HASTIAMIRI5/senior-red-team) | Security simulation & validation |
+
+</details>
+
+<details open>
+<summary><strong>AI, systems & research</strong></summary>
+<br />
+
+| Project | Project | Project |
+|:---|:---|:---|
+| [Groq Memory Chat](https://github.com/HASTIAMIRI5/groq-memory-chat) | [Agent Ops](https://github.com/HASTIAMIRI5/hasti-agent-ops) | [AI Signal Studio](https://github.com/HASTIAMIRI5/hasti-ai-signal-studio) |
+| [Campaign Brief](https://github.com/HASTIAMIRI5/hasti-campaign-brief) | [Code Mentor](https://github.com/HASTIAMIRI5/hasti-code-mentor) | [Creator OS](https://github.com/HASTIAMIRI5/hasti-creator-os) |
+| [Doc Digest](https://github.com/HASTIAMIRI5/hasti-doc-digest) | [Launch Sentinel](https://github.com/HASTIAMIRI5/hasti-launch-sentinel) | [Prompt Lab](https://github.com/HASTIAMIRI5/hasti-prompt-lab) |
+| [Research Radar](https://github.com/HASTIAMIRI5/hasti-research-radar) | [Voice Brief](https://github.com/HASTIAMIRI5/hasti-voice-brief) | — |
+
+</details>
+
+<details>
+<summary><strong>More about this profile</strong></summary>
+<br />
+
+- [Portfolio website repository](https://github.com/HASTIAMIRI5/HASTIAMIRI5.github.io)
+- [Browse all repositories](https://github.com/HASTIAMIRI5?tab=repositories)
+- **Languages:** English (C1+) · German (A1)
+
+</details>
+
+## `05` / Working principles
+
+- **Make it reproducible:** clear notes and repeatable steps matter.
+- **Prefer signal over noise:** useful telemetry should support sound decisions.
+- **Design for resilience:** plan for failure, recovery, and the people operating the system.
+- **Use AI deliberately:** treat it as a tool to evaluate, guide, and verify—not a substitute for judgment.
 
 ---
 
-## Professor's Profile
+<div align="center">
 
-I am a systems-minded technologist with a strong foundation in secure infrastructure design, operational resilience, and applied AI. My work sits at the intersection of infrastructure engineering, cybersecurity, and intelligent automation: I build environments that are dependable, observable, defensible, and scalable.
+<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=C8D9DD&bg_color=071A22" alt="Hasti's GitHub statistics" /></a>
 
-My research and practice focus on:
+<sub>Curiosity in. Better systems out.</sub>
 
-- Enterprise infrastructure and systems administration
-- Cyber defense, SOC workflows, and detection engineering
-- Threat intelligence and adversary behavior analysis
-- IT operations, automation, and incident response
-- Applied AI for productivity, reasoning, and operational decision support
-
-I approach technology as a disciplined engineering science: rigorous, evidence-based, and constantly validated through hands-on experimentation.
-
----
-
-## Core Domains
-
-### 1. Infrastructure Engineering
-- Windows Server Administration
-- Active Directory and identity services
-- Linux systems administration
-- DNS, DHCP, network troubleshooting, and connectivity validation
-- Backup, recovery, and enterprise continuity
-- Monitoring, telemetry, and system observability
-
-### 2. Cybersecurity & Defense
-- Detection engineering and rule development
-- SOC research and telemetry analysis
-- Threat intelligence modeling and enrichment
-- Incident response workflows and triage methodology
-- Red team simulation and defensive validation
-- Security analytics and anomaly detection
-
-### 3. Applied AI & Intelligent Systems
-- AI workflow orchestration and automation
-- Prompt engineering and evaluation
-- AI-assisted research, summarization, and reasoning
-- Agentic systems, dashboards, and operational tooling
-- AI document intelligence and content workflows
-
----
-
-## Technical Expertise
-
-- Windows Server Administration
-- Active Directory
-- DNS, DHCP, and Network Troubleshooting
-- Linux Administration
-- PowerShell Automation
-- Bash Scripting
-- Monitoring and Log Analysis
-- Security Fundamentals
-- Threat Detection and Response
-- Incident Response
-- SOC Operations
-- AI Workflow Design
-- Prompt Engineering
-- Automation and Orchestration
-- Documentation and Reporting
-
----
-
-## Selected Portfolio
-
-### Infrastructure & Systems
-
-- Windows Server & Active Directory Home Lab  
-  https://github.com/HASTIAMIRI5/Windows-Server-Active-Directory-Home-Lab
-
-- Linux Server Administration Lab  
-  https://github.com/HASTIAMIRI5/linux-server-administration-lab
-
-- PowerShell Administration Toolkit  
-  https://github.com/HASTIAMIRI5/PowerShell-Administration-Toolkit
-
-- Network Troubleshooting Lab  
-  https://github.com/HASTIAMIRI5/Network-Troubleshooting-Lab
-
-- Backup & Disaster Recovery Lab  
-  https://github.com/HASTIAMIRI5/Backup-Disaster-Recovery-Lab
-
-- Infrastructure Monitoring & Log Analysis  
-  https://github.com/HASTIAMIRI5/Infrastructure-Monitoring-Log-Analysis
-
-### Cybersecurity & Detection Engineering
-
-- detection-engineering-lab  
-  https://github.com/HASTIAMIRI5/detection-engineering-lab
-
-- soc-research-lab  
-  https://github.com/HASTIAMIRI5/soc-research-lab
-
-- telemetry-correlation-engine  
-  https://github.com/HASTIAMIRI5/telemetry-correlation-engine
-
-- threat-intel-ontology  
-  https://github.com/HASTIAMIRI5/threat-intel-ontology
-
-- incident-response-notebook  
-  https://github.com/HASTIAMIRI5/incident-response-notebook
-
-- senior-red-team  
-  https://github.com/HASTIAMIRI5/senior-red-team
-
-### AI, Systems, and Research
-
-- groq-memory-chat  
-  https://github.com/HASTIAMIRI5/groq-memory-chat
-
-- hasti-agent-ops  
-  https://github.com/HASTIAMIRI5/hasti-agent-ops
-
-- hasti-ai-signal-studio  
-  https://github.com/HASTIAMIRI5/hasti-ai-signal-studio
-
-- hasti-campaign-brief  
-  https://github.com/HASTIAMIRI5/hasti-campaign-brief
-
-- hasti-code-mentor  
-  https://github.com/HASTIAMIRI5/hasti-code-mentor
-
-- hasti-creator-os  
-  https://github.com/HASTIAMIRI5/hasti-creator-os
-
-- hasti-doc-digest  
-  https://github.com/HASTIAMIRI5/hasti-doc-digest
-
-- hasti-launch-sentinel  
-  https://github.com/HASTIAMIRI5/hasti-launch-sentinel
-
-- hasti-prompt-lab  
-  https://github.com/HASTIAMIRI5/hasti-prompt-lab
-
-- hasti-research-radar  
-  https://github.com/HASTIAMIRI5/hasti-research-radar
-
-- hasti-voice-brief  
-  https://github.com/HASTIAMIRI5/hasti-voice-brief
-
-### Portfolio & Profile
-
-- GitHub Pages Portfolio  
-  https://github.com/HASTIAMIRI5/HASTIAMIRI5.github.io
-
-- GitHub Profile Repository  
-  https://github.com/HASTIAMIRI5/HASTIAMIRI5
-
----
-
-## Research Philosophy
-
-I believe in building practical systems that educators, operators, and engineers can trust. My work emphasizes clarity, reproducibility, and operational value. Every lab, script, and analysis is designed to teach, validate, and improve real-world decision-making in complex digital environments.
-
-This is not merely experimentation for its own sake; it is the disciplined construction of knowledge through systems practice.
-
----
-
-## Keywords
-
-IT Infrastructure Engineer, Systems Administrator, Cybersecurity Researcher, Network Security, Windows Server, Active Directory, Linux, Automation, PowerShell, SOC, Detection Engineering, Threat Intelligence, Incident Response, Applied AI, AI Operations, Research Engineering, Secure Infrastructure
-
-## Languages
-
-English C1+ | German A1
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+</div>
