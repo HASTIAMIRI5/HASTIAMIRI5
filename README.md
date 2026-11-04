@@ -1,31 +1,30 @@
 <div align="center">
 
-# HASTI AMIRI
+# <span style="color:#00F5D4">HASTI AMIRI</span>
 
-**AI systems · Defensive security · Infrastructure**
+### AI SYSTEMS <code>//</code> DEFENSIVE SECURITY <code>//</code> INFRASTRUCTURE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=22D3A6&center=true&vCenter=true&width=700&lines=Build+with+intent.;Analyze+the+signal.;Engineer+for+resilience." alt="Build with intent. Analyze the signal. Engineer for resilience." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=%3E+Build+with+intent_;%3E+Analyze+the+signal_;%3E+Engineer+for+resilience_" alt="Build with intent. Analyze the signal. Engineer for resilience." />
 
-[![GitHub](https://img.shields.io/badge/GitHub-HASTIAMIRI5-111827?style=flat-square&logo=github)](https://github.com/HASTIAMIRI5)
-[![AI](https://img.shields.io/badge/AI-Applied-7C3AED?style=flat-square&logo=openai&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=AI)
-[![Security](https://img.shields.io/badge/Security-Defensive-0D9488?style=flat-square&logo=owasp&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=security)
-[![Systems](https://img.shields.io/badge/Systems-Infrastructure-334155?style=flat-square&logo=linux&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=lab)
+[![GitHub](https://img.shields.io/badge/GITHUB-HASTIAMIRI5-0B0F14?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/HASTIAMIRI5)
+[![AI](https://img.shields.io/badge/AI-APPLIED-17102B?style=for-the-badge&logo=openai&logoColor=BD5CFF)](https://github.com/HASTIAMIRI5?tab=repositories&q=AI)
+[![Security](https://img.shields.io/badge/SECURITY-DEFENSIVE-071A1D?style=for-the-badge&logo=owasp&logoColor=00F5D4)](https://github.com/HASTIAMIRI5?tab=repositories&q=security)
+[![Systems](https://img.shields.io/badge/SYSTEMS-INFRASTRUCTURE-101820?style=for-the-badge&logo=linux&logoColor=00F5D4)](https://github.com/HASTIAMIRI5?tab=repositories&q=lab)
 
 </div>
 
 ---
 
 ```text
-hasti@workbench:~$ focus
-AI tooling  /  security research  /  systems engineering
-
-hasti@workbench:~$ principle
-Useful systems. Responsible security. Clear implementation.
+┌─[hasti@workbench]─[~/focus]
+└──╼ $ cat mission.txt
+     Build useful AI. Study systems. Strengthen defense.
+     Practical tools, responsible research, clear implementation.
 ```
 
 I’m an independent engineer building practical AI applications, defensive security tools, and systems projects. I’m interested in making complex workflows more understandable, measurable, and resilient—from SOC telemetry and detection engineering to AI-assisted productivity.
 
-## Selected domains
+## `01` / Focus areas
 
 | Domain | Focus |
 |---|---|
@@ -34,9 +33,9 @@ I’m an independent engineer building practical AI applications, defensive secu
 | **Systems** | Linux and Windows administration, monitoring, networking, automation |
 | **Engineering** | Maintainable tools, reproducible experiments, useful documentation |
 
-## Project index
+## `02` / Project archive
 
-### 🟣 AI applications & workflow tools
+### <span style="color:#BD5CFF">◆ AI applications & workflow tools</span>
 
 | Project | Description |
 |---|---|
@@ -52,7 +51,7 @@ I’m an independent engineer building practical AI applications, defensive secu
 | [Creator OS](https://github.com/HASTIAMIRI5/HASTI-CREATOR-OS) | AI creator workflow assistant for ideation and publishing. |
 | [Doc Digest](https://github.com/HASTIAMIRI5/HASTI-DOC-DIGEST) | Toolkit for AI document intelligence and insight extraction. |
 
-### 🔐 Security research & defensive operations
+### <span style="color:#00F5D4">◆ Security research & defensive operations</span>
 
 | Project | Description |
 |---|---|
@@ -66,7 +65,7 @@ I’m an independent engineer building practical AI applications, defensive secu
 | [AI Security Analyst](https://github.com/HASTIAMIRI5/AI-security-analyst) | AI and security project. |
 | [Incident Response Notebook](https://github.com/HASTIAMIRI5/incident-response-notebook) | Research notebook covering triage, containment, and forensic analysis. |
 
-### 🟢 Systems administration & infrastructure
+### <span style="color:#00F5D4">◆ Systems administration & infrastructure</span>
 
 | Project | Description |
 |---|---|
@@ -78,7 +77,7 @@ I’m an independent engineer building practical AI applications, defensive secu
 | [Infrastructure Monitoring & Log Analysis](https://github.com/HASTIAMIRI5/Infrastructure-Monitoring-Log-Analysis) | Infrastructure monitoring and log analysis project. |
 | [HTTP Minitor](https://github.com/HASTIAMIRI5/HTTP-MINITOR) | Endpoint status monitoring with threshold-based alerts. |
 
-### 🟠 Learning, engineering & experiments
+### <span style="color:#FF4D9D">◆ Learning, engineering & experiments</span>
 
 | Project | Description |
 |---|---|
@@ -87,13 +86,13 @@ I’m an independent engineer building practical AI applications, defensive secu
 | [VFH Obstacle Avoidance](https://github.com/HASTIAMIRI5/VFH-Obstacle-Avoidance) | Vector Field Histogram method for robot obstacle avoidance. |
 | [Smart Office](https://github.com/HASTIAMIRI5/SMART-OFFICE) | Smart-office project. |
 
-### ⚪ Portfolio
+### <span style="color:#94A3B8">◆ Portfolio</span>
 
 | Project | Description |
 |---|---|
 | [GitHub Pages Portfolio](https://github.com/HASTIAMIRI5/HASTIAMIRI5.github.io) | Portfolio site featuring categorized IT projects. |
 
-## Toolchain
+## `03` / Toolchain
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,powershell,typescript,javascript,git,github&theme=dark" alt="Python, Linux, Bash, PowerShell, TypeScript, JavaScript, Git, and GitHub" />
@@ -105,6 +104,6 @@ Each repository’s README includes its specific requirements and implementation
 
 <div align="center">
 
-`BUILD WITH INTENT` · `DEFEND RESPONSIBLY` · `SHIP USEFUL TOOLS`
+`BUILD WITH INTENT` <code>///</code> `DEFEND RESPONSIBLY` <code>///</code> `SHIP USEFUL TOOLS`
 
 </div>
