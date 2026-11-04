@@ -39,11 +39,19 @@ I enjoy learning how intelligent systems work and exploring ways to create usefu
 
 Two sisters, one shared love of learning, making, and growing together.
 
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=80" alt="Sisters spending time together" width="420" />
+</div>
+
 [Meet my sister Ava on GitHub →](https://github.com/AvaAmirii)
 
 ## <code>04 / OPEN WORKBENCH</code>
 
 Take a look through my [repositories](https://github.com/HASTIAMIRI5?tab=repositories) to see what I’m exploring. Feedback and friendly conversation are always welcome.
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80" alt="A collaborative workspace for learning and building" width="760" />
+</div>
 
 <div align="center">
 
