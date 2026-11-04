@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F18,35:14532D,70:0B3B42,100:C62828&height=240&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=F4FFF6&fontAlignY=38&desc=%3C%20INFRASTRUCTURE%20%2F%20SECURITY%20%2F%20AI%20%3E&descSize=17&descAlignY=60&animation=fadeIn" alt="Hasti Amiri — code, infrastructure, and a little Christmas spirit" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F18,35:14532D,70:0B3B42,100:C62828&height=240&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=F4FFF6&fontAlignY=38&desc=%[...]
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8FE3B0&center=true&vCenter=true&width=700&lines=%3E+building+reliable+systems...;%3E+defending+the+digital+workshop...;%3E+shipping+useful+AI+tools...;%3E+adding+a+little+holiday+magic+%E2%9C%A8" alt="Typing animation: building reliable systems, defending infrastructure, and shipping useful tools" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8FE3B0&center=true&vCenter=true&wid[...]
 
 <p><strong>Infrastructure Engineer · Security Researcher · Applied AI Practitioner</strong></p>
 <p><code>secure systems</code> · <code>thoughtful automation</code> · <code>festive bits of code</code> 🎄</p>
 
-<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-187A45?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
+<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-187A45?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /[...]
 <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-HASTIAMIRI5-B52B35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 <br />
 <br />
 
-<img src="assets/white-cat-working.svg" alt="A white cat working at a laptop" width="320" />
+<img src="assets/winter-girl-coding.svg" alt="A girl working at a laptop in winter and Christmas snow" width="360" />
 
 </div>
 
@@ -90,9 +90,9 @@ A growing collection of hands-on labs, operational tools, and research projects.
 
 | Project | Project | Project |
 |:---|:---|:---|
-| [Groq Memory Chat](https://github.com/HASTIAMIRI5/groq-memory-chat) | [Agent Ops](https://github.com/HASTIAMIRI5/hasti-agent-ops) | [AI Signal Studio](https://github.com/HASTIAMIRI5/hasti-ai-signal-studio) |
-| [Campaign Brief](https://github.com/HASTIAMIRI5/hasti-campaign-brief) | [Code Mentor](https://github.com/HASTIAMIRI5/hasti-code-mentor) | [Creator OS](https://github.com/HASTIAMIRI5/hasti-creator-os) |
-| [Doc Digest](https://github.com/HASTIAMIRI5/hasti-doc-digest) | [Launch Sentinel](https://github.com/HASTIAMIRI5/hasti-launch-sentinel) | [Prompt Lab](https://github.com/HASTIAMIRI5/hasti-prompt-lab) |
+| [Groq Memory Chat](https://github.com/HASTIAMIRI5/groq-memory-chat) | [Agent Ops](https://github.com/HASTIAMIRI5/hasti-agent-ops) | [AI Signal Studio](https://github.com/HASTIAMIRI5/hasti-ai-signal-[...]
+| [Campaign Brief](https://github.com/HASTIAMIRI5/hasti-campaign-brief) | [Code Mentor](https://github.com/HASTIAMIRI5/hasti-code-mentor) | [Creator OS](https://github.com/HASTIAMIRI5/hasti-creator-os[...]
+| [Doc Digest](https://github.com/HASTIAMIRI5/hasti-doc-digest) | [Launch Sentinel](https://github.com/HASTIAMIRI5/hasti-launch-sentinel) | [Prompt Lab](https://github.com/HASTIAMIRI5/hasti-prompt-lab[...]
 | [Research Radar](https://github.com/HASTIAMIRI5/hasti-research-radar) | [Voice Brief](https://github.com/HASTIAMIRI5/hasti-voice-brief) | — |
 
 </details>
@@ -133,7 +133,7 @@ A growing collection of hands-on labs, operational tools, and research projects.
 
 <div align="center">
 
-<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=E8FFFB&bg_color=071A22" alt="Hasti Amiri's GitHub stats" /></a>
+<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B[...]
 
 <sub>Curiosity in. Better systems out.</sub>
 
