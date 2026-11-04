@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A22,45:0B3B42,100:00C7B7&height=220&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=E8FFFB&fontAlignY=38&desc=INFRASTR[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F18,35:14532D,70:0B3B42,100:C62828&height=240&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=F4FFF6&fontAlignY=38&desc=%3C%20INFRASTRUCTURE%20%2F%20SECURITY%20%2F%20AI%20%3E&descSize=17&descAlignY=60&animation=fadeIn" alt="Hasti Amiri — code, infrastructure, and a little Christmas spirit" />
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&[...]
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8FE3B0&center=true&vCenter=true&width=700&lines=%3E+building+reliable+systems...;%3E+defending+the+digital+workshop...;%3E+shipping+useful+AI+tools...;%3E+adding+a+little+holiday+magic+%E2%9C%A8" alt="Typing animation: building reliable systems, defending infrastructure, and shipping useful tools" /></a>
 
 <p><strong>Infrastructure Engineer · Security Researcher · Applied AI Practitioner</strong></p>
+<p><code>secure systems</code> · <code>thoughtful automation</code> · <code>festive bits of code</code> 🎄</p>
 
-<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=071A22" alt="Explore my project[...]
-<a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-HASTIAMIRI5-14232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-187A45?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
+<a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-HASTIAMIRI5-B52B35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 <br />
 <br />
@@ -20,7 +21,7 @@
 
 ## `01` / About
 
-I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trus[...]
+I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trust.
 
 My approach is practical and evidence-led: build, observe, validate, document, improve.
 
@@ -132,7 +133,7 @@ A growing collection of hands-on labs, operational tools, and research projects.
 
 <div align="center">
 
-<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=E8FFFB&bg_color=071A22" alt="GitHub Stats" /></a>
+<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=E8FFFB&bg_color=071A22" alt="Hasti Amiri's GitHub stats" /></a>
 
 <sub>Curiosity in. Better systems out.</sub>
 
