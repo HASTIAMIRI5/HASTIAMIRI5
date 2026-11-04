@@ -1,12 +1,75 @@
+<style>
+  .hero-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 22px;
+    width: min(100%, 980px);
+    padding: 18px 20px;
+    border-radius: 22px;
+    border: 1px solid rgba(0, 245, 212, 0.35);
+    background: linear-gradient(135deg, rgba(10,16,22,0.96), rgba(12,26,31,0.95), rgba(20,13,29,0.96));
+    box-shadow: 0 0 28px rgba(0, 245, 212, 0.12), inset 0 0 24px rgba(189, 92, 255, 0.08);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-banner::before {
+    content: "";
+    position: absolute;
+    inset: -50% -20%;
+    background: linear-gradient(120deg, transparent 18%, rgba(0,245,212,0.34) 50%, transparent 82%);
+    transform: translateX(-75%) rotate(18deg);
+    animation: sweep 5.2s ease-in-out infinite;
+  }
+
+  .hero-banner .banner-text {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    font-size: 1.05rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #eaffff;
+    text-shadow: 0 0 14px rgba(0,245,212,0.42);
+    animation: pulseText 2.2s ease-in-out infinite alternate;
+  }
+
+  @keyframes sweep {
+    0% { transform: translateX(-80%) rotate(18deg); }
+    100% { transform: translateX(85%) rotate(18deg); }
+  }
+
+  @keyframes pulseText {
+    0% {
+      opacity: 0.85;
+      text-shadow: 0 0 10px rgba(0,245,212,0.25);
+    }
+    100% {
+      opacity: 1;
+      text-shadow: 0 0 20px rgba(0,245,212,0.6), 0 0 30px rgba(189,92,255,0.18);
+    }
+  }
+</style>
+
 <div align="center">
 
-  <div style="background:linear-gradient(135deg, rgba(10,16,22,0.96), rgba(12,26,31,0.95), rgba(20,13,29,0.96)); border:1px solid rgba(0,245,212,0.35); border-radius:24px; box-shadow:0 0 28px rgba(0,245,212,0.14), 0 0 22px rgba(189,92,255,0.12); padding:28px 26px; max-width:980px;">
+  <div class="hero-banner">
+    <span class="banner-text">AI Systems // Defensive Security // Infrastructure</span>
+  </div>
+
+</div>
+
+<div align="center">
+
+  <div style="background:linear-gradient(135deg, rgba(10,16,22,0.96), rgba(12,26,31,0.95), rgba(20,13,29,0.96)); border:1px solid rgba(0,245,212,0.35); border-radius:24px; box-shadow:0 0 28px rgba(0,2,0,0.25); padding:22px 18px 18px; max-width:980px; margin:0 auto;">
 
 # <span style="color:#00F5D4">HASTI AMIRI</span>
 
 ### AI SYSTEMS <code>//</code> DEFENSIVE SECURITY <code>//</code> INFRASTRUCTURE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=%3E+Build+with+intent_;%3E+Analyze+systems_;%3E+Strengthen+defense_;%3E+Ship+useful+tools_" alt="Build with intent; Analyze systems; Strengthen defense; Ship useful tools" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=%3E+Build+with+intent_;%3E+Analyze+systems_;%3E+Strengthen+defense_;%3E+Ship+useful+tools_" alt="Animated typing banner" />
 
 [![GitHub](https://img.shields.io/badge/GITHUB-HASTIAMIRI5-0B0F14?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/HASTIAMIRI5)
 [![AI](https://img.shields.io/badge/AI-APPLIED-17102B?style=for-the-badge&logo=openai&logoColor=BD5CFF)](https://github.com/HASTIAMIRI5?tab=repositories&q=AI)
