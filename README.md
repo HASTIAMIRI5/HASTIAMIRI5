@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hasti-banner-noir.svg" alt="Cinematic noir and neon cyberpunk banner with a minimal tech aesthetic" width="100%" />
+
 
 # Hasti Amiri
 
