@@ -40,7 +40,7 @@ I enjoy learning how intelligent systems work and exploring ways to create usefu
 Two sisters, one shared love of learning, making, and growing together.
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=80" alt="Sisters spending time together" width="420" />
+  <img src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=80" alt="Two sisters smiling together" width="520" style="border-radius: 18px; border: 1px solid #00F5D4; box-shadow: 0 0 28px rgba(0,245,212,0.25);" />
 </div>
 
 [Meet my sister Ava on GitHub →](https://github.com/AvaAmirii)
@@ -50,7 +50,7 @@ Two sisters, one shared love of learning, making, and growing together.
 Take a look through my [repositories](https://github.com/HASTIAMIRI5?tab=repositories) to see what I’m exploring. Feedback and friendly conversation are always welcome.
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80" alt="A collaborative workspace for learning and building" width="760" />
+  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Creative coding workspace with monitor and desk setup" width="760" style="border-radius: 18px; border: 1px solid #BD00FF; box-shadow: 0 0 30px rgba(189,0,255,0.22);" />
 </div>
 
 <div align="center">
