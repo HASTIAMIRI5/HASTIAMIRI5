@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Festive profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:165B33,100:B22222&height=220&section=header&text=HASTIAMIRI5&fontSize=54&fontColor=FFF8E7&animation=wave&fontFamily=Verdana&fontWeight=700)](https://github.com/HASTIAMIRI5)
+[![Festive profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:165B33,100:B22222&height=220&section=header&text=HASTI-AMIRI&fontSize=54&fontColor=FFF8E7&animation=wave&fontFamily=Verdana&fontWeight=700)](https://github.com/HASTIAMIRI5)
 
 ### 🎄 Welcome to my corner of GitHub ✨
 
