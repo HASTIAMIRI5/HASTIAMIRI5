@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HASTIAMIRI5/HASTIAMIRI5/main/assets/hasti-banner-noir.svg" alt="Cinematic cyberpunk profile banner" width="100%" />
+
 
 # Hasti Amiri
 
