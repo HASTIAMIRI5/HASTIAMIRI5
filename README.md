@@ -1,25 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F18,35:14532D,70:0B3B42,100:C62828&height=240&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=F4FFF6&fontAlignY=38&desc=%[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F18,35:14532D,70:0B3B42,100:C62828&height=240&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=F4FFF6&fontAlignY=38" alt="Hasti Amiri profile banner" />
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8FE3B0&center=true&vCenter=true&wid[...]
-
-<p><strong>Infrastructure Engineer · Security Researcher · Applied AI Practitioner</strong></p>
-<p><code>secure systems</code> · <code>thoughtful automation</code> · <code>festive bits of code</code> 🎄</p>
-
-<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-187A45?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /[...]
+<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-187A45?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-HASTIAMIRI5-B52B35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
-<br />
-<br />
+<strong>Infrastructure Engineer · Security Researcher · Applied AI Practitioner</strong>
 
-<img src="assets/winter-girl-coding.svg" alt="A girl working at a laptop in winter and Christmas snow" width="360" />
+<code>secure systems</code> · <code>thoughtful automation</code> · <code>festive bits of code</code> 🎄
 
 </div>
 
 ---
 
-## `01` / About
+## About
 
 I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trust.
 
@@ -27,16 +21,20 @@ My approach is practical and evidence-led: build, observe, validate, document, i
 
 > **Reliable systems. Useful signals. Thoughtful automation.**
 
-## `02` / What I work on
+---
 
-| **INFRASTRUCTURE** | **SECURITY & DEFENSE** | **APPLIED AI** |
+## What I work on
+
+| Infrastructure | Security & defense | Applied AI |
 |:---|:---|:---|
 | Windows Server & Linux administration | Detection engineering & SOC workflows | AI workflow design & orchestration |
 | Active Directory, DNS & DHCP | Telemetry analysis & threat intelligence | Research, summarization & reasoning |
 | Networking, monitoring & observability | Incident response & defensive validation | Agentic tools & operational dashboards |
 | Backup, recovery & automation | Security analytics & anomaly detection | Document intelligence & content workflows |
 
-## `03` / Toolkit
+---
+
+## Toolkit
 
 <p>
 <img src="https://img.shields.io/badge/Windows_Server-153A5B?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
@@ -50,13 +48,13 @@ My approach is practical and evidence-led: build, observe, validate, document, i
 <img src="https://img.shields.io/badge/Applied_AI-7357FF?style=flat-square&logo=openai&logoColor=white" alt="Applied AI" />
 </p>
 
-## `04` / Selected work
+---
+
+## Selected work
 
 A growing collection of hands-on labs, operational tools, and research projects. Each repository is a small step toward making systems more observable, resilient, and useful.
 
-<details open>
-<summary><strong>Infrastructure & systems</strong></summary>
-<br />
+### Infrastructure & systems
 
 | Project | Focus |
 |:---|:---|
@@ -67,11 +65,7 @@ A growing collection of hands-on labs, operational tools, and research projects.
 | [Backup & Disaster Recovery Lab](https://github.com/HASTIAMIRI5/Backup-Disaster-Recovery-Lab) | Recovery · continuity |
 | [Infrastructure Monitoring & Log Analysis](https://github.com/HASTIAMIRI5/Infrastructure-Monitoring-Log-Analysis) | Monitoring · observability |
 
-</details>
-
-<details open>
-<summary><strong>Cybersecurity & detection</strong></summary>
-<br />
+### Cybersecurity & detection
 
 | Project | Focus |
 |:---|:---|
@@ -82,32 +76,26 @@ A growing collection of hands-on labs, operational tools, and research projects.
 | [Incident Response Notebook](https://github.com/HASTIAMIRI5/incident-response-notebook) | Investigation workflows |
 | [Senior Red Team](https://github.com/HASTIAMIRI5/senior-red-team) | Security simulation & validation |
 
-</details>
-
-<details open>
-<summary><strong>AI, systems & research</strong></summary>
-<br />
+### AI, systems & research
 
 | Project | Project | Project |
 |:---|:---|:---|
-| [Groq Memory Chat](https://github.com/HASTIAMIRI5/groq-memory-chat) | [Agent Ops](https://github.com/HASTIAMIRI5/hasti-agent-ops) | [AI Signal Studio](https://github.com/HASTIAMIRI5/hasti-ai-signal-[...]
-| [Campaign Brief](https://github.com/HASTIAMIRI5/hasti-campaign-brief) | [Code Mentor](https://github.com/HASTIAMIRI5/hasti-code-mentor) | [Creator OS](https://github.com/HASTIAMIRI5/hasti-creator-os[...]
-| [Doc Digest](https://github.com/HASTIAMIRI5/hasti-doc-digest) | [Launch Sentinel](https://github.com/HASTIAMIRI5/hasti-launch-sentinel) | [Prompt Lab](https://github.com/HASTIAMIRI5/hasti-prompt-lab[...]
+| [Groq Memory Chat](https://github.com/HASTIAMIRI5/groq-memory-chat) | [Agent Ops](https://github.com/HASTIAMIRI5/hasti-agent-ops) | [AI Signal Studio](https://github.com/HASTIAMIRI5/hasti-ai-signal-studio) |
+| [Campaign Brief](https://github.com/HASTIAMIRI5/hasti-campaign-brief) | [Code Mentor](https://github.com/HASTIAMIRI5/hasti-code-mentor) | [Creator OS](https://github.com/HASTIAMIRI5/hasti-creator-os) |
+| [Doc Digest](https://github.com/HASTIAMIRI5/hasti-doc-digest) | [Launch Sentinel](https://github.com/HASTIAMIRI5/hasti-launch-sentinel) | [Prompt Lab](https://github.com/HASTIAMIRI5/hasti-prompt-lab) |
 | [Research Radar](https://github.com/HASTIAMIRI5/hasti-research-radar) | [Voice Brief](https://github.com/HASTIAMIRI5/hasti-voice-brief) | — |
 
-</details>
+---
 
-<details>
-<summary><strong>More about this profile</strong></summary>
-<br />
+## More about me
 
 - [Portfolio website repository](https://github.com/HASTIAMIRI5/HASTIAMIRI5.github.io)
 - [Browse all repositories](https://github.com/HASTIAMIRI5?tab=repositories)
 - **Languages:** English (C1+) · German (A1)
 
-</details>
+---
 
-## `05` / Me & my sister
+## Me & my sister
 
 <div align="center">
   <h3>Better together ✨</h3>
@@ -122,18 +110,18 @@ A growing collection of hands-on labs, operational tools, and research projects.
   </p>
 </div>
 
-## `06` / Working principles
+---
+
+## Working principles
 
 - **Make it reproducible:** clear notes and repeatable steps matter.
 - **Prefer signal over noise:** useful telemetry should support sound decisions.
 - **Design for resilience:** plan for failure, recovery, and the people operating the system.
 - **Use AI deliberately:** treat it as a tool to evaluate, guide, and verify—not a substitute for judgment.
 
----
-
 <div align="center">
 
-<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B[...]
+<img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7" alt="Hasti Amiri's GitHub stats" />
 
 <sub>Curiosity in. Better systems out.</sub>
 
