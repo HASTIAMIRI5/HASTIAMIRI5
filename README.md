@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/HASTIAMIRI5/HASTIAMIRI5/main/assets/hasti-banner-noir.svg" alt="Cinematic cyberpunk profile banner" width="100%" />
+
 # Hasti Amiri
 
 ### AI · Security · Data · Systems
@@ -63,7 +65,7 @@ My focus is on practical implementation, clear documentation, and responsible se
 | [Network Troubleshooting Lab](https://github.com/HASTIAMIRI5/Network-Troubleshooting-Lab) | Hands-on network troubleshooting lab. |
 | [PowerShell Administration Toolkit](https://github.com/HASTIAMIRI5/PowerShell-Administration-Toolkit) | Tools for machine inventory, connectivity checks, event review, and service health. |
 | [Infrastructure Monitoring & Log Analysis](https://github.com/HASTIAMIRI5/Infrastructure-Monitoring-Log-Analysis) | Infrastructure monitoring and log analysis project. |
-| [HTTP Minit(or)](https://github.com/HASTIAMIRI5/HTTP-MINITOR) | Endpoint status monitoring with threshold-based alerts. |
+| [HTTP Minitor](https://github.com/HASTIAMIRI5/HTTP-MINITOR) | Endpoint status monitoring with threshold-based alerts. |
 
 ### 🟠 Learning, engineering & experiments
 
