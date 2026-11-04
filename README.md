@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Hasti Amiri — cyberpunk profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:07070B,25:10101A,55:171326,78:00F5D4,100:BD00FF&height=250&section=header&text=HASTI%20AMIRI&fontSize=56&fontColor=F4F1FF&fontAlignY=38&desc=AI%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20CREATIVE%20TECH&descSize=15&descAlignY=61&animation=fadeIn)](https://github.com/HASTIAMIRI5)
+[![Hasti Amiri — cyberpunk profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:07070B,25:10101A,55:171326,78:00F5D4,100:BD00FF&height=250&section=header&text=HASTI%20AMIRI&fontSize=44&fontColor=E8E5EF&animation=wave&stroke=00F5D4)](https://github.com/HASTIAMIRI5)
 
 ### <code><span style="color:#00F5D4">$</span> curious mind. thoughtful builder. always learning<span style="color:#BD00FF">_</span></code>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00F5D4&center=true&vCenter=true&width=620&lines=%24+exploring+artificial+intelligence;learning+to+build+with+purpose;ideas+%E2%86%92+experiments+%E2%86%92+growth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00F5D4&center=true&vCenter=true&width=620&lines=%24+exploring+artificial+intelligence;learn+by+building;design+thoughtful+software;keep+curious+and+iterate)](https://github.com/HASTIAMIRI5)
 
 [![Repositories](https://img.shields.io/badge/%E2%96%B6_EXPLORE-REPOSITORIES-0A0A10?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=171326)](https://github.com/HASTIAMIRI5?tab=repositories)
 [![Say hello](https://img.shields.io/badge/%E2%9C%A6_SAY-HELLO-0A0A10?style=for-the-badge&logo=github&logoColor=BD00FF&labelColor=171326)](https://github.com/HASTIAMIRI5)
@@ -17,12 +17,12 @@
 
 > `Building at the intersection of technology, problem-solving, and creativity.`
 
-I enjoy learning how intelligent systems work and exploring ways to create useful, thoughtful software. I’m at the beginning of my journey, and I’m here to learn by making, stay curious, and improve one experiment at a time.
+I enjoy learning how intelligent systems work and exploring ways to create useful, thoughtful software. I’m early in my journey, and I’m here to learn by making, stay curious, and keep improving.
 
 - `FOCUS` — Artificial intelligence and machine learning
 - `EXPLORING` — Data science and computational ideas
 - `INTERESTS` — Systems engineering and cybersecurity
-- `MINDSET` — Experiment, learn, iterate
+- `MINDSET` — Experiment, learn, iterate, improve
 
 ## <code>02 / TOOLKIT IN PROGRESS</code>
 
@@ -39,19 +39,19 @@ I enjoy learning how intelligent systems work and exploring ways to create usefu
 
 Two sisters, one shared love of learning, making, and growing together.
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=80" alt="Two sisters smiling together" width="520" style="border-radius: 18px; border: 1px solid #00F5D4; box-shadow: 0 0 28px rgba(0,245,212,0.25);" />
-</div>
-
 [Meet my sister Ava on GitHub →](https://github.com/AvaAmirii)
 
-## <code>04 / OPEN WORKBENCH</code>
+## <code>04 / CURRENTLY BUILDING</code>
+
+I’m exploring practical ideas, experimenting with new tools, and learning through hands-on projects that connect technical curiosity with real-world problem solving.
+
+- Learning how AI systems are designed and applied
+- Exploring data-driven thinking and system-level concepts
+- Building small projects to turn ideas into working software
+
+## <code>05 / OPEN WORKBENCH</code>
 
 Take a look through my [repositories](https://github.com/HASTIAMIRI5?tab=repositories) to see what I’m exploring. Feedback and friendly conversation are always welcome.
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Creative coding workspace with monitor and desk setup" width="760" style="border-radius: 18px; border: 1px solid #BD00FF; box-shadow: 0 0 30px rgba(189,0,255,0.22);" />
-</div>
 
 <div align="center">
 
