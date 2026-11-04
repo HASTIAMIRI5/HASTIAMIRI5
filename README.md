@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A22,45:0B3B42,100:00C7B7&height=220&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=E8FFFB&fontAlignY=38&desc=INFRASTRUCTURE%20%7C%20SECURITY%20%7C%20APPLIED%20AI&descAlignY=58&descSize=17" alt="Hasti Amiri — Infrastructure, Security, Applied AI" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A22,45:0B3B42,100:00C7B7&height=220&section=header&text=HASTI%20AMIRI&fontSize=54&fontColor=E8FFFB&fontAlignY=38&desc=INFRASTR[...]
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+reliable+systems;Turning+telemetry+into+useful+signals;Exploring+applied+AI" alt="Building reliable systems, turning telemetry into useful signals, exploring applied AI" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&[...]
 
 <p><strong>Infrastructure Engineer · Security Researcher · Applied AI Practitioner</strong></p>
 
-<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=071A22" alt="Explore my projects" /></a>
+<a href="https://github.com/HASTIAMIRI5?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=071A22" alt="Explore my project[...]
 <a href="https://github.com/HASTIAMIRI5"><img src="https://img.shields.io/badge/GitHub-HASTIAMIRI5-14232B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 <br />
@@ -20,7 +20,7 @@
 
 ## `01` / About
 
-I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trust—whether that means improving a network, strengthening a detection workflow, or building a useful tool.
+I’m a systems-minded technologist working across **secure infrastructure, cyber defense, automation, and applied AI**. I enjoy making complex environments easier to understand, operate, and trus[...]
 
 My approach is practical and evidence-led: build, observe, validate, document, improve.
 
@@ -106,7 +106,22 @@ A growing collection of hands-on labs, operational tools, and research projects.
 
 </details>
 
-## `05` / Working principles
+## `05` / Me & my sister
+
+<div align="center">
+  <h3>Better together ✨</h3>
+  <p><i>Two sisters, one shared love of learning, making, and figuring things out.</i></p>
+  <a href="https://github.com/AvaAmirii" title="Visit my sister's GitHub profile">
+    <img src="https://raw.githubusercontent.com/AvaAmirii/AvaAmirii/main/assets/me-and-sister.svg" alt="Ava and her sister learning and building together" width="100%" />
+  </a>
+  <p>
+    <a href="https://github.com/AvaAmirii"><strong>Meet my sister on GitHub →</strong></a>
+    <br />
+    <sub>Cheering each other on, sharing ideas, and growing one project at a time.</sub>
+  </p>
+</div>
+
+## `06` / Working principles
 
 - **Make it reproducible:** clear notes and repeatable steps matter.
 - **Prefer signal over noise:** useful telemetry should support sound decisions.
@@ -117,7 +132,7 @@ A growing collection of hands-on labs, operational tools, and research projects.
 
 <div align="center">
 
-<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7" alt="Hasti Amiri's GitHub stats" /></a>
+<a href="https://github.com/HASTIAMIRI5"><img src="https://github-readme-stats.vercel.app/api?username=HASTIAMIRI5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=E8FFFB&bg_color=071A22" alt="GitHub Stats" /></a>
 
 <sub>Curiosity in. Better systems out.</sub>
 
