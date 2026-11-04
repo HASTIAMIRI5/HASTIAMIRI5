@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Cyberpunk portrait banner</title>
+  <desc id="desc">A cinematic cyberpunk portrait of a young woman with glowing purple headphones in a neon-lit server room.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070B12"/>
+      <stop offset="0.5" stop-color="#0E1222"/>
+      <stop offset="1" stop-color="#080910"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(860 110) rotate(85) scale(230 430)">
+      <stop offset="0" stop-color="#7847FF" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#6536D1" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#080910" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 260) rotate(50) scale(310 250)">
+      <stop offset="0" stop-color="#38D9FF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#38D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="faceGrad" x1="660" y1="120" x2="760" y2="290" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E9D5CF"/>
+      <stop offset="0.5" stop-color="#D3B7AF"/>
+      <stop offset="1" stop-color="#9D7E84"/>
+    </linearGradient>
+    <linearGradient id="hoodGrad" x1="520" y1="80" x2="860" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1A1C2A"/>
+      <stop offset="0.5" stop-color="#0F121A"/>
+      <stop offset="1" stop-color="#090C13"/>
+    </linearGradient>
+    <linearGradient id="jacketGrad" x1="510" y1="188" x2="848" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#171921"/>
+      <stop offset="0.6" stop-color="#0D0F15"/>
+      <stop offset="1" stop-color="#070A10"/>
+    </linearGradient>
+    <linearGradient id="headphoneGrad" x1="570" y1="80" x2="850" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B48CFF"/>
+      <stop offset="0.2" stop-color="#7E5CFF"/>
+      <stop offset="0.7" stop-color="#3D2EA6"/>
+      <stop offset="1" stop-color="#190D36"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="hardGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 0.65 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#violetGlow)"/>
+  <rect width="1200" height="360" fill="url(#blueGlow)"/>
+
+  <g opacity="0.7" stroke-linecap="round">
+    <g stroke="#5ADAF6" stroke-opacity="0.25">
+      <path d="M48 90H310"/>
+      <path d="M48 108H232"/>
+      <path d="M48 126H286"/>
+      <path d="M48 144H197"/>
+    </g>
+    <g stroke="#A17BFF" stroke-opacity="0.28">
+      <path d="M910 208H1152"/>
+      <path d="M960 226H1152"/>
+      <path d="M920 244H1152"/>
+      <path d="M998 262H1152"/>
+    </g>
+    <g stroke="#6BE2FF" stroke-opacity="0.18">
+      <path d="M38 210H220"/>
+      <path d="M38 225H170"/>
+      <path d="M38 240H204"/>
+    </g>
+  </g>
+
+  <g opacity="0.4">
+    <rect x="960" y="58" width="140" height="100" rx="10" stroke="#56D8FF" stroke-opacity="0.35" fill="none"/>
+    <circle cx="1040" cy="106" r="30" stroke="#56D8FF" stroke-opacity="0.35" fill="none"/>
+    <path d="M1040 63V149M998 106H1082" stroke="#56D8FF" stroke-opacity="0.18"/>
+    <rect x="70" y="66" width="270" height="110" rx="10" stroke="#A97BFF" stroke-opacity="0.28" fill="none"/>
+    <path d="M70 302H1130" stroke="#DCE5FF" stroke-opacity="0.10"/>
+  </g>
+
+  <g opacity="0.18" fill="#B2C8FF">
+    <circle cx="188" cy="304" r="2"/>
+    <circle cx="260" cy="304" r="2"/>
+    <circle cx="332" cy="304" r="2"/>
+    <circle cx="404" cy="304" r="2"/>
+    <circle cx="476" cy="304" r="2"/>
+    <circle cx="548" cy="304" r="2"/>
+    <circle cx="620" cy="304" r="2"/>
+    <circle cx="692" cy="304" r="2"/>
+    <circle cx="764" cy="304" r="2"/>
+    <circle cx="836" cy="304" r="2"/>
+    <circle cx="908" cy="304" r="2"/>
+    <circle cx="980" cy="304" r="2"/>
+    <circle cx="1052" cy="304" r="2"/>
+  </g>
+
+  <path d="M514 360C530 275 548 202 580 150C610 101 662 73 715 73C801 73 864 128 876 195C885 245 868 290 844 360H514Z" fill="url(#hoodGrad)"/>
+  <path d="M540 338C573 231 619 191 696 191C783 191 822 243 836 338H540Z" fill="url(#jacketGrad)"/>
+
+  <path d="M602 150C621 110 666 83 722 85C782 87 824 120 833 176C840 220 819 262 783 288C741 319 688 322 646 298C603 273 578 221 602 150Z" fill="#0B0D12"/>
+
+  <path d="M645 96C675 76 716 75 748 90C780 105 795 132 801 169C807 208 790 241 760 264C733 286 696 291 667 280C631 266 602 234 603 188C603 155 620 112 645 96Z" fill="url(#faceGrad)"/>
+
+  <path d="M609 104C628 81 655 63 692 64C727 65 761 80 783 105C787 148 769 167 755 177C733 170 701 167 679 177C649 189 622 178 609 160C598 145 599 124 609 104Z" fill="#090C11"/>
+
+  <g filter="url(#hardGlow)">
+    <path d="M616 113C662 86 757 92 792 133" stroke="#8E5DFF" stroke-opacity="0.8" stroke-width="8" fill="none"/>
+    <path d="M611 226C643 257 666 272 704 276C740 280 772 268 800 244" stroke="#3AD9FF" stroke-opacity="0.7" stroke-width="8" fill="none"/>
+  </g>
+
+  <path d="M623 170C631 130 665 106 709 106C751 106 788 131 796 171C784 155 761 144 736 141C703 137 670 148 623 170Z" fill="#07090F"/>
+
+  <g>
+    <path d="M620 160C654 145 684 146 708 150" stroke="#2B2935" stroke-width="5" stroke-linecap="round"/>
+    <path d="M622 163C651 154 676 154 702 160" stroke="#6FE5FF" stroke-width="2" stroke-linecap="round" stroke-opacity="0.8"/>
+    <path d="M728 149C765 146 789 154 817 166" stroke="#2B2935" stroke-width="5" stroke-linecap="round"/>
+    <path d="M730 156C760 154 785 160 809 171" stroke="#C386FF" stroke-width="2" stroke-linecap="round" stroke-opacity="0.85"/>
+    <path d="M710 195C703 214 702 226 711 233" stroke="#836D71" stroke-width="2" stroke-linecap="round"/>
+    <path d="M688 248C706 257 730 257 748 249" stroke="#58414D" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M567 118C555 196 557 251 578 311" stroke="#A576FF" stroke-width="3" stroke-opacity="0.75" fill="none"/>
+    <path d="M562 120C540 187 537 240 551 302" stroke="#39D8FF" stroke-width="1.5" stroke-opacity="0.6" fill="none"/>
+    <path d="M864 118C878 181 876 242 858 302" stroke="#3CD5FF" stroke-width="3" stroke-opacity="0.75" fill="none"/>
+    <path d="M869 120C889 185 890 239 876 296" stroke="#9C6DFF" stroke-width="1.5" stroke-opacity="0.6" fill="none"/>
+  </g>
+
+  <g>
+    <path d="M708 226C703 253 701 270 710 282C738 272 760 271 783 283C792 269 795 251 791 230C766 243 732 245 708 226Z" fill="#11151D" opacity="0.88"/>
+    <path d="M702 221C693 235 683 257 682 274C691 294 709 306 726 311C742 315 759 312 774 306C783 294 790 275 791 254C777 261 762 266 747 268C732 270 715 264 702 221Z" fill="#0D1018" opacity="0.9"/>
+  </g>
+
+  <g>
+    <path d="M586 173C549 175 520 181 493 206C480 217 470 233 470 251C470 288 498 321 533 321C566 321 592 295 601 262C610 230 605 192 586 173Z" fill="#0E1119"/>
+    <path d="M600 176C560 194 545 246 560 293C576 340 620 352 651 340C680 328 699 294 701 260C704 220 681 186 646 175C629 169 614 169 600 176Z" fill="#080A10"/>
+    <path d="M579 232C596 224 607 224 622 232" stroke="#9A7D89" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <path d="M821 174C858 178 868 198 878 228C887 257 885 287 872 311C852 341 822 354 792 357C810 326 818 273 820 224C821 206 820 188 821 174Z" fill="#0E1119"/>
+    <path d="M814 197C840 203 857 220 866 243C875 264 874 287 864 304C851 327 830 338 802 342C804 313 804 283 804 250C804 228 807 211 814 197Z" fill="#090B10"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <path d="M566 118C584 96 609 88 633 90C650 91 662 99 676 110" stroke="#A36DFF" stroke-width="8" stroke-linecap="round" stroke-opacity="0.7" fill="none"/>
+    <path d="M785 110C810 90 841 88 866 97C881 102 894 112 904 126" stroke="#2FE2FF" stroke-width="8" stroke-linecap="round" stroke-opacity="0.7" fill="none"/>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M615 206C663 200 703 199 744 208" stroke="#A16AD6" stroke-opacity="0.3" stroke-width="2"/>
+    <path d="M623 208C675 216 719 221 761 215" stroke="#57D9FF" stroke-opacity="0.22" stroke-width="2"/>
+  </g>
+
+  <g>
+    <rect x="116" y="110" width="130" height="90" rx="8" fill="#0D1220" stroke="#40D9FF" stroke-opacity="0.2"/>
+    <path d="M132 154H218M132 170H202M132 186H186" stroke="#78E9FF" stroke-opacity="0.55"/>
+    <rect x="980" y="228" width="118" height="52" rx="8" fill="#0E1220" stroke="#A67BFF" stroke-opacity="0.2"/>
+    <path d="M998 255H1086" stroke="#B690FF" stroke-opacity="0.55"/>
+    <path d="M998 242H1068" stroke="#82E6FF" stroke-opacity="0.45"/>
+  </g>
+
+  <path d="M48 318H1152" stroke="#EDF2FF" stroke-opacity="0.12"/>
+  <text x="48" y="344" fill="#B8C4D8" fill-opacity="0.75" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="3">INTELLIGENCE / SECURITY / SYSTEMS</text>
+  <text x="1152" y="344" text-anchor="end" fill="#B8C4D8" fill-opacity="0.62" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2">HASTI AMIRI</text>
+</svg>
