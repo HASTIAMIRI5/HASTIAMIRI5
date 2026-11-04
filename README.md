@@ -250,6 +250,9 @@
       text-align: center;
       font-size: 15px;
       box-shadow: inset 0 1px 0 rgba(255,255,255,0.04);
+      display: block;
+      text-decoration: none;
+      box-sizing: border-box;
     }
 
     .social-row {
@@ -611,12 +614,12 @@
     </div>
 
     <nav class="nav">
-      <a href="#" class="active">Overview</a>
-      <a href="#">Repositories</a>
-      <a href="#">Projects</a>
-      <a href="#">Packages</a>
-      <a href="#">Stars</a>
-      <a href="#">Gists</a>
+      <a href="#overview" class="active">Overview</a>
+      <a href="https://github.com/HASTIAMIRI5?tab=repositories">Repositories</a>
+      <a href="https://github.com/HASTIAMIRI5?tab=projects">Projects</a>
+      <a href="https://github.com/HASTIAMIRI5?tab=packages">Packages</a>
+      <a href="https://github.com/HASTIAMIRI5?tab=stars">Stars</a>
+      <a href="https://gist.github.com/">Gists</a>
     </nav>
 
     <div class="content">
@@ -632,7 +635,7 @@
           Building intelligent solutions at the intersection of AI, data, and systems.
         </div>
 
-        <div class="mini-btn">Edit profile</div>
+        <a class="mini-btn" href="https://github.com/HASTIAMIRI5/HASTIAMIRI5/edit/main/README.md" target="_blank" rel="noreferrer">Edit profile</a>
 
         <div class="social-row">
           <span>247 followers</span>
@@ -648,7 +651,7 @@
         </div>
       </aside>
 
-      <main class="panel main-panel">
+      <main id="overview" class="panel main-panel">
         <div class="section-title"><span class="icon">✦</span>About Me</div>
 
         <div class="about-block">
