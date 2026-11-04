@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/hasti-banner-noir.svg" alt="Cinematic noir and neon cyberpunk banner with a minimal tech aesthetic" width="100%" />
+
 # Hasti Amiri
 
 ### AI · Security · Data · Systems
@@ -16,7 +18,7 @@ Building practical tools at the intersection of intelligent software and reliabl
 
 ## About
 
-I’m an engineer and independent builder exploring AI-assisted applications, security research, and systems administration. I enjoy turning ideas into useful, understandable projects—from SOC data analysis and detection engineering to AI tools and Linux labs.
+I’m an engineer and independent builder exploring AI-assisted applications, security research, and systems administration. I enjoy turning ideas into useful, understandable projects—from SOC data analysis and detection engineering to AI-powered tools and practical infrastructure labs.
 
 My focus is on practical implementation, clear documentation, and responsible security work.
 
