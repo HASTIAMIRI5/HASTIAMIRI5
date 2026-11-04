@@ -1,12 +1,10 @@
 <div align="center">
 
+# HASTI AMIRI
 
+### AI · SECURITY · DATA · SYSTEMS
 
-# Hasti Amiri
-
-### AI · Security · Data · Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+useful+AI+tools;Engineering+defensive+security+labs;Making+infrastructure+more+reliable;Learning+continuously.+Building+responsibly." alt="Animated text: Building useful AI tools, engineering defensive security labs, making infrastructure more reliable, learning continuously and building responsibly" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+useful+AI+tools;Engineering+defensive+systems;Turning+signals+into+action;Shipping+practical+security+projects" alt="Typing banner" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-HASTIAMIRI5-181717?style=for-the-badge&logo=github)](https://github.com/HASTIAMIRI5)
 [![AI](https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=AI)
@@ -17,13 +15,21 @@
 
 ---
 
+```text
+┌─[hasti@builder]─[~]
+└──╼ $ whoami
+     Independent engineer | AI • Security • Systems
+└──╼ $ mission
+     Build useful tools. Defend responsibly. Make systems clearer.
+```
+
 ## About
 
-I’m an engineer and independent builder exploring AI-assisted applications, security research, and systems administration. I enjoy turning ideas into useful, understandable projects—from SOC data analysis and detection engineering to AI-powered tools and practical infrastructure labs.
+I’m an engineer and independent builder exploring AI-assisted applications, security research, and systems administration. I enjoy turning ideas into useful, understandable projects—from SOC data workflows to practical automation.
 
 My focus is on practical implementation, clear documentation, and responsible security work.
 
-## Projects by category
+## Project index
 
 ### 🟣 AI applications & workflow tools
 
@@ -89,7 +95,7 @@ My focus is on practical implementation, clear documentation, and responsible se
 - **Systems:** Linux and Windows administration, monitoring, networking, and automation
 - **Engineering:** maintainable tools, thoughtful documentation, and reproducible experiments
 
-## Tools and technologies
+## Toolchain
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,powershell,typescript,javascript,git,github&theme=dark" alt="Python, Linux, Bash, PowerShell, TypeScript, JavaScript, Git, and GitHub" />
@@ -101,6 +107,6 @@ I use these technologies across my public projects; each repository’s README h
 
 <div align="center">
 
-*Learn continuously. Build responsibly. Make useful things.*
+`LEARN CONTINUOUSLY` · `BUILD RESPONSIBLY` · `MAKE USEFUL THINGS`
 
 </div>
