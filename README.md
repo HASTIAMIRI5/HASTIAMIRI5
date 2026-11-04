@@ -2,32 +2,37 @@
 
 # HASTI AMIRI
 
-### AI · SECURITY · DATA · SYSTEMS
+**AI systems · Defensive security · Infrastructure**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+useful+AI+tools;Engineering+defensive+systems;Turning+signals+into+action;Shipping+practical+security+projects" alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=22D3A6&center=true&vCenter=true&width=700&lines=Build+with+intent.;Analyze+the+signal.;Engineer+for+resilience." alt="Build with intent. Analyze the signal. Engineer for resilience." />
 
-[![GitHub](https://img.shields.io/badge/GitHub-HASTIAMIRI5-181717?style=for-the-badge&logo=github)](https://github.com/HASTIAMIRI5)
-[![AI](https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=AI)
-[![Security](https://img.shields.io/badge/Security-Defensive-0891B2?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=security)
-[![Systems](https://img.shields.io/badge/Systems-Infrastructure-16A34A?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=lab)
+[![GitHub](https://img.shields.io/badge/GitHub-HASTIAMIRI5-111827?style=flat-square&logo=github)](https://github.com/HASTIAMIRI5)
+[![AI](https://img.shields.io/badge/AI-Applied-7C3AED?style=flat-square&logo=openai&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=AI)
+[![Security](https://img.shields.io/badge/Security-Defensive-0D9488?style=flat-square&logo=owasp&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=security)
+[![Systems](https://img.shields.io/badge/Systems-Infrastructure-334155?style=flat-square&logo=linux&logoColor=white)](https://github.com/HASTIAMIRI5?tab=repositories&q=lab)
 
 </div>
 
 ---
 
 ```text
-┌─[hasti@builder]─[~]
-└──╼ $ whoami
-     Independent engineer | AI • Security • Systems
-└──╼ $ mission
-     Build useful tools. Defend responsibly. Make systems clearer.
+hasti@workbench:~$ focus
+AI tooling  /  security research  /  systems engineering
+
+hasti@workbench:~$ principle
+Useful systems. Responsible security. Clear implementation.
 ```
 
-## About
+I’m an independent engineer building practical AI applications, defensive security tools, and systems projects. I’m interested in making complex workflows more understandable, measurable, and resilient—from SOC telemetry and detection engineering to AI-assisted productivity.
 
-I’m an engineer and independent builder exploring AI-assisted applications, security research, and systems administration. I enjoy turning ideas into useful, understandable projects—from SOC data workflows to practical automation.
+## Selected domains
 
-My focus is on practical implementation, clear documentation, and responsible security work.
+| Domain | Focus |
+|---|---|
+| **Applied AI** | Assistants, workflow tools, data-informed applications |
+| **Security** | Defensive analysis, detection engineering, threat intelligence, incident response |
+| **Systems** | Linux and Windows administration, monitoring, networking, automation |
+| **Engineering** | Maintainable tools, reproducible experiments, useful documentation |
 
 ## Project index
 
@@ -47,7 +52,7 @@ My focus is on practical implementation, clear documentation, and responsible se
 | [Creator OS](https://github.com/HASTIAMIRI5/HASTI-CREATOR-OS) | AI creator workflow assistant for ideation and publishing. |
 | [Doc Digest](https://github.com/HASTIAMIRI5/HASTI-DOC-DIGEST) | Toolkit for AI document intelligence and insight extraction. |
 
-### 🔵 Security research & defensive operations
+### 🔐 Security research & defensive operations
 
 | Project | Description |
 |---|---|
@@ -88,25 +93,18 @@ My focus is on practical implementation, clear documentation, and responsible se
 |---|---|
 | [GitHub Pages Portfolio](https://github.com/HASTIAMIRI5/HASTIAMIRI5.github.io) | Portfolio site featuring categorized IT projects. |
 
-## Areas of interest
-
-- **AI and applied ML:** useful assistants, workflow tools, and data-informed applications
-- **Security:** defensive analysis, detection engineering, threat intelligence, and incident response
-- **Systems:** Linux and Windows administration, monitoring, networking, and automation
-- **Engineering:** maintainable tools, thoughtful documentation, and reproducible experiments
-
 ## Toolchain
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,powershell,typescript,javascript,git,github&theme=dark" alt="Python, Linux, Bash, PowerShell, TypeScript, JavaScript, Git, and GitHub" />
 </p>
 
-I use these technologies across my public projects; each repository’s README has the specific requirements and implementation details.
+Each repository’s README includes its specific requirements and implementation details.
 
 ---
 
 <div align="center">
 
-`LEARN CONTINUOUSLY` · `BUILD RESPONSIBLY` · `MAKE USEFUL THINGS`
+`BUILD WITH INTENT` · `DEFEND RESPONSIBLY` · `SHIP USEFUL TOOLS`
 
 </div>
