@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Two sisters building together at Christmas</title>
+  <desc id="desc">Two cheerful cats in cozy winter sweaters share a laptop beside a decorated Christmas tree as snow falls outside.</desc>
+  <defs>
+    <linearGradient id="room" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#123C43"/><stop offset="1" stop-color="#071820"/></linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#173C54"/><stop offset="1" stop-color="#315B68"/></linearGradient>
+    <filter id="softshadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#001014" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="500" rx="28" fill="url(#room)"/>
+  <rect x="24" y="24" width="1152" height="452" rx="22" fill="none" stroke="#397A78" stroke-width="2"/>
+  <!-- snowy window -->
+  <rect x="60" y="72" width="350" height="230" rx="16" fill="url(#window)" stroke="#7EC5B5" stroke-opacity=".65" stroke-width="4"/>
+  <path d="M235 74v226M62 186h346" stroke="#86C7B7" stroke-opacity=".65" stroke-width="4"/>
+  <g fill="#F0FFFC" opacity=".88"><circle cx="112" cy="114" r="3"/><circle cx="185" cy="149" r="2"/><circle cx="321" cy="112" r="3"/><circle cx="369" cy="162" r="2"/><circle cx="144" cy="237" r="2"/><circle cx="287" cy="219" r="3"/><circle cx="344" cy="269" r="2"/><circle cx="205" cy="92" r="2"/></g>
+  <path d="M62 264q50-34 93-4t80 1q48-30 89 0t84-8v48H62z" fill="#DDF4EE" opacity=".78"/>
+  <!-- festive garland and lights -->
+  <path d="M68 55Q220 104 365 55T665 55T965 55T1134 61" fill="none" stroke="#3D7765" stroke-width="4"/>
+  <g fill="#FFD57E"><circle cx="95" cy="65" r="7"/><circle cx="174" cy="82" r="6"/><circle cx="258" cy="82" r="7"/><circle cx="344" cy="62" r="6"/><circle cx="426" cy="51" r="7"/><circle cx="510" cy="57" r="6"/><circle cx="594" cy="67" r="7"/><circle cx="678" cy="56" r="6"/><circle cx="763" cy="48" r="7"/><circle cx="849" cy="51" r="6"/><circle cx="934" cy="53" r="7"/><circle cx="1021" cy="57" r="6"/><circle cx="1101" cy="59" r="7"/></g>
+  <!-- tree -->
+  <g transform="translate(944 132)" filter="url(#softshadow)">
+    <path d="M72 0 27 66h27L14 119h39L0 178h144l-53-59h39L90 66h27z" fill="#167A61" stroke="#59B99A" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="62" y="176" width="21" height="34" rx="4" fill="#9D6447"/>
+    <path d="M72 0 75 13" stroke="#FFD57E" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="44" cy="81" r="7" fill="#F06862"/><circle cx="99" cy="106" r="7" fill="#FFD57E"/><circle cx="49" cy="137" r="7" fill="#C9F0E7"/><circle cx="105" cy="158" r="7" fill="#F06862"/><circle cx="84" cy="58" r="6" fill="#FFD57E"/>
+    <ellipse cx="72" cy="211" rx="92" ry="12" fill="#DDF4EE" opacity=".8"/>
+  </g>
+  <!-- two friendly cat sisters -->
+  <g filter="url(#softshadow)">
+    <!-- left cat -->
+    <path d="M418 241 434 161q4-15 18-5l44 45m77 40 14-80q3-15 17-5l45 45" fill="#C9B9AC" stroke="#E6D8CC" stroke-width="7" stroke-linejoin="round"/>
+    <path d="m441 181 34 24-39 17zm165 0-35 24 40 17z" fill="#D98F91"/>
+    <path d="M408 248q0-80 89-80h36q88 0 88 80v47q0 64-106 64h-2q-105 0-105-64z" fill="#D9C8BA" stroke="#F0E4D9" stroke-width="6"/>
+    <ellipse cx="462" cy="256" rx="8" ry="11" fill="#17363B"/><ellipse cx="533" cy="256" rx="8" ry="11" fill="#17363B"/>
+    <path d="m490 274 7 6 7-6q-1 12-7 12t-7-12z" fill="#CE7B83"/><path d="M497 291q-10 11-20 1m20-1q10 11 20 1" fill="none" stroke="#735B55" stroke-width="3" stroke-linecap="round"/>
+    <path d="M450 334q-24 23-19 46h60q9-19-7-43m66-2q-16 19-7 45h58q5-23-18-46" fill="#D9C8BA" stroke="#F0E4D9" stroke-width="5"/>
+    <!-- left sweater -->
+    <path d="M413 321q84 42 195 0l17 91q-109 40-226 0z" fill="#B9444E" stroke="#E87A76" stroke-width="4"/>
+    <path d="M419 343q93 30 183 0m-177 24q86 25 171 0m-164 23q78 21 156 0" fill="none" stroke="#F4C982" stroke-width="5" stroke-dasharray="3 12" stroke-linecap="round"/>
+    <!-- right cat -->
+    <path d="M586 239 603 159q3-15 18-5l43 45m77 40 15-80q3-15 17-5l44 45" fill="#FFF9ED" stroke="#E9E1D2" stroke-width="7" stroke-linejoin="round"/>
+    <path d="m610 179 34 24-40 19zm165 0-35 24 40 19z" fill="#E9A0A4"/>
+    <path d="M577 246q0-80 89-80h36q88 0 88 80v49q0 64-106 64h-2q-105 0-105-64z" fill="#FFF9ED" stroke="#FFFFFF" stroke-width="6"/>
+    <ellipse cx="632" cy="255" rx="8" ry="11" fill="#17363B"/><ellipse cx="704" cy="255" rx="8" ry="11" fill="#17363B"/>
+    <path d="m660 273 7 6 7-6q-1 12-7 12t-7-12z" fill="#E18A93"/><path d="M667 290q-10 11-20 1m20-1q10 11 20 1" fill="none" stroke="#735B55" stroke-width="3" stroke-linecap="round"/>
+    <path d="M620 334q-24 23-19 46h60q9-19-7-43m66-2q-16 19-7 45h58q5-23-18-46" fill="#FFF9ED" stroke="#FFFFFF" stroke-width="5"/>
+    <!-- right sweater -->
+    <path d="M582 321q84 42 195 0l17 91q-109 40-226 0z" fill="#247D70" stroke="#61C2A4" stroke-width="4"/>
+    <path d="M588 343q93 30 183 0m-177 24q86 25 171 0m-164 23q78 21 156 0" fill="none" stroke="#F5D588" stroke-width="5" stroke-dasharray="3 12" stroke-linecap="round"/>
+  </g>
+  <!-- shared laptop -->
+  <g filter="url(#softshadow)">
+    <path d="M429 331q0-9 10-9h294q10 0 10 9v82H429z" fill="#102B33" stroke="#66D1B6" stroke-width="5"/>
+    <rect x="450" y="340" width="272" height="53" rx="6" fill="#153F45"/>
+    <path d="M476 363h45m16 0h34m16 0h88" stroke="#78DCC4" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+    <path d="M402 413h367l29 22q3 7-9 7H381q-12 0-9-7z" fill="#29A78F"/>
+    <path d="M548 422h77" stroke="#E7FFF8" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+    <path d="m586 416 8 8-8 8-8-8z" fill="#C83E4D"/>
+  </g>
+  <text x="600" y="474" text-anchor="middle" fill="#D8F6EE" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">SISTERS · SNOW DAYS · SHARED IDEAS</text>
+</svg>

@@ -1,35 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">White cat working at a laptop</title>
-  <desc id="desc">A cozy white cat sits behind a teal laptop, focused on its work.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+  <title id="title">Winter work session with a festive white cat</title>
+  <desc id="desc">A white cat wearing a tiny Santa hat works at a laptop in a cozy teal winter scene, with falling snow, warm lights, and a little tree.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b3b42"/>
-      <stop offset="1" stop-color="#071a22"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123B43"/>
+      <stop offset="1" stop-color="#071820"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#173E43"/>
+      <stop offset="1" stop-color="#0A242D"/>
     </linearGradient>
     <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%">
-      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#001013" flood-opacity=".35"/>
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#001013" flood-opacity=".42"/>
     </filter>
   </defs>
-  <rect x="12" y="12" width="616" height="336" rx="28" fill="url(#bg)"/>
-  <circle cx="510" cy="78" r="34" fill="#00c7b7" opacity=".12"/>
-  <path d="M70 287h500" stroke="#00c7b7" stroke-opacity=".28" stroke-width="2"/>
-  <!-- cat ears and head -->
-  <path d="M236 164 247 103q2-12 13-4l45 34m38 0 45-34q11-8 13 4l11 61" fill="#fff" stroke="#d8f1ed" stroke-width="5" stroke-linejoin="round"/>
-  <path d="m253 121 34 21-39 12zm147 0-34 21 39 12z" fill="#f3a5b2"/>
-  <path d="M229 174q0-67 77-68h28q77 1 77 68v39q0 62-91 62h-1q-90 0-90-62z" fill="#fff" stroke="#d8f1ed" stroke-width="5"/>
-  <!-- face -->
-  <ellipse cx="280" cy="183" rx="7" ry="10" fill="#17363b"/>
-  <ellipse cx="360" cy="183" rx="7" ry="10" fill="#17363b"/>
-  <path d="m314 198 7 6 7-6q-1 13-7 13t-7-13z" fill="#ef91a5"/>
-  <path d="M321 210q-9 12-19 2m19-2q9 12 19 2" fill="none" stroke="#52676a" stroke-width="3" stroke-linecap="round"/>
-  <path d="M268 202 220 195m49 18-51 8m155-19 48-7m-49 18 51 8" fill="none" stroke="#9aaeb0" stroke-width="2" stroke-linecap="round"/>
-  <!-- paws and laptop -->
-  <path d="M258 263q-15 17-11 34h44q9-18-6-34m82 0q-15 16-6 34h44q4-18-11-34" fill="#fff" stroke="#d8f1ed" stroke-width="4"/>
-  <g filter="url(#shadow)">
-    <path d="M206 222q0-8 9-8h212q9 0 9 8v62H206z" fill="#102a31" stroke="#00c7b7" stroke-width="4"/>
-    <rect x="224" y="230" width="194" height="38" rx="5" fill="#143b40"/>
-    <path d="M184 284h274l22 17q2 5-7 5H170q-9 0-7-5z" fill="#00a99c"/>
-    <path d="M289 291h64" stroke="#d7fffa" stroke-opacity=".75" stroke-width="3" stroke-linecap="round"/>
+  <rect x="10" y="10" width="620" height="360" rx="30" fill="url(#sky)" stroke="#2A6870" stroke-width="2"/>
+  <!-- snowfall -->
+  <g fill="#E7FFFA" opacity=".8">
+    <circle cx="78" cy="76" r="3"/><circle cx="148" cy="118" r="2"/><circle cx="218" cy="65" r="2.5"/><circle cx="436" cy="70" r="2"/><circle cx="552" cy="118" r="3"/><circle cx="590" cy="62" r="2"/><circle cx="91" cy="190" r="2"/><circle cx="520" cy="205" r="2"/><circle cx="171" cy="47" r="1.5"/><circle cx="469" cy="155" r="1.5"/>
   </g>
-  <text x="320" y="331" text-anchor="middle" fill="#b9eee8" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">MY LITTLE WORK COMPANION</text>
+  <!-- warm fairy lights -->
+  <path d="M50 54Q165 112 287 54T590 58" fill="none" stroke="#547A71" stroke-width="2"/>
+  <g fill="#FFD37A">
+    <circle cx="85" cy="72" r="5"/><circle cx="151" cy="90" r="4"/><circle cx="222" cy="88" r="5"/><circle cx="291" cy="57" r="4"/><circle cx="365" cy="45" r="5"/><circle cx="438" cy="51" r="4"/><circle cx="512" cy="62" r="5"/><circle cx="572" cy="60" r="4"/>
+  </g>
+  <!-- tiny tree -->
+  <g transform="translate(500 156)">
+    <path d="M34 0 9 35h15L4 61h21L0 89h69L44 61h21L48 35h15z" fill="#167B68" stroke="#4CB89A" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="29" y="88" width="12" height="18" rx="2" fill="#A66B47"/>
+    <path d="M34 0 36 8" stroke="#FFD37A" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="21" cy="42" r="3" fill="#F16B62"/><circle cx="48" cy="57" r="3" fill="#FFD37A"/><circle cx="26" cy="72" r="3" fill="#A9E8D9"/><circle cx="52" cy="82" r="3" fill="#F16B62"/>
+    <ellipse cx="34" cy="108" rx="48" ry="7" fill="#D8F4EE" opacity=".75"/>
+  </g>
+  <!-- cat ears and head -->
+  <path d="M236 164 247 103q2-12 13-4l45 34m38 0 45-34q11-8 13 4l11 61" fill="#FFFDF8" stroke="#D8E9E4" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m253 121 34 21-39 12zm147 0-34 21 39 12z" fill="#EFA9B1"/>
+  <path d="M229 174q0-67 77-68h28q77 1 77 68v39q0 62-91 62h-1q-90 0-90-62z" fill="#FFFDF8" stroke="#D8E9E4" stroke-width="5"/>
+  <!-- Santa hat -->
+  <path d="M263 117q29-53 77-48 24 3 39 23l-18 17q-38-16-87 18z" fill="#C83E4D" stroke="#F17B78" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M266 122q36-29 92-17l-7 17q-43-11-76 17z" fill="#FFF8EA"/>
+  <circle cx="380" cy="91" r="12" fill="#FFF8EA" stroke="#E7D9C6" stroke-width="3"/>
+  <!-- face -->
+  <ellipse cx="280" cy="183" rx="7" ry="10" fill="#17363B"/><ellipse cx="360" cy="183" rx="7" ry="10" fill="#17363B"/>
+  <circle cx="282" cy="180" r="2" fill="#FFFFFF"/><circle cx="362" cy="180" r="2" fill="#FFFFFF"/>
+  <path d="m314 198 7 6 7-6q-1 13-7 13t-7-13z" fill="#E97987"/>
+  <path d="M321 210q-9 12-19 2m19-2q9 12 19 2" fill="none" stroke="#52676A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M268 202 220 195m49 18-51 8m155-19 48-7m-49 18 51 8" fill="none" stroke="#9AAEB0" stroke-width="2" stroke-linecap="round"/>
+  <!-- paws -->
+  <path d="M258 263q-15 17-11 34h44q9-18-6-34m82 0q-15 16-6 34h44q4-18-11-34" fill="#FFFDF8" stroke="#D8E9E4" stroke-width="4"/>
+  <!-- laptop -->
+  <g filter="url(#shadow)">
+    <path d="M206 222q0-8 9-8h212q9 0 9 8v62H206z" fill="#102A31" stroke="#62D2B9" stroke-width="4"/>
+    <rect x="224" y="230" width="194" height="38" rx="5" fill="url(#screen)"/>
+    <path d="M242 254h35m10 0h24m10 0h52" stroke="#73D9C2" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+    <path d="M184 284h274l22 17q2 5-7 5H170q-9 0-7-5z" fill="#27A88F"/>
+    <path d="M289 291h64" stroke="#E7FFF8" stroke-opacity=".8" stroke-width="3" stroke-linecap="round"/>
+    <path d="m319 285 8 8-8 8-8-8z" fill="#C83E4D"/>
+  </g>
+  <path d="M54 320h532" stroke="#C8EEE5" stroke-opacity=".38" stroke-width="2"/>
+  <text x="320" y="348" text-anchor="middle" fill="#D5F5EC" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">COZY CODE · BRIGHT IDEAS · WINTER NIGHTS</text>
 </svg>
